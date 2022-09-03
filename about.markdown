@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Probably contact information.
+The grownup who made this site is Andrew Zimolzak. Send e-mail to [zimolzak@fastmail.com](mailto:zimolzak@fastmail.com)
