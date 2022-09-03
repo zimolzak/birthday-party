@@ -8,7 +8,7 @@ url: "https://zimolzak.github.io" # the base hostname & protocol for your site, 
 github_username:  zimolzak
 
 # Build settings
-theme: minima
+theme: merlot
 # remote_theme: benalter/retlab  # AJZ
 plugins:
   - jekyll-feed
