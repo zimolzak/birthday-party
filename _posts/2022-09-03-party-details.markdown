@@ -16,12 +16,11 @@ Houston, TX 77030
 
 # Contact
 
-*R.s.v.p.* by text or e-mail to:
+*R.s.v.p.* (with number of kids eating ice cream, and total number of
+ people) by text or e-mail to:
 
 Andrew Zimolzak  
 [zimolzak@fastmail.com](mailto:zimolzak@fastmail.com)
-
-# repeat info about what details.
 
 For my cell phone number, you either received a printed invitation
 with my number, or I texted you. I'm in area code 517. **I will text
@@ -37,15 +36,13 @@ you if it's cancelled due to rain.**
 
 [Google Maps](https://goo.gl/maps/WqQSf8B9dVePbDBr9) link.
 
-[OpenStreetMap](https://osm.org/go/TuQNfDLrP?way=216506690) link.
-
-**Plus code:** PH2P+XC University Place, Houston, TX  
-**Latitude and longitude:** 29.702, -95.414
-
 Braeswood Park is a small triangle park at the corner of Maroneal and
 Morningside, about four blocks south of Holcombe. About a mile south
 of Roberts Elementary.
 
+- [OpenStreetMap](https://osm.org/go/TuQNfDLrP?way=216506690) link.
+- Plus code: PH2P+XC University Place, Houston, TX
+- Latitude and longitude: 29.702, -95.414
 
 
 

@@ -1,14 +1,13 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# FIXME - insert pic somewhere
 
 layout: home
 ---
 
 - **Where:** Braeswood Park, 2399 Maroneal St
 - **When:** September 10, 2022, 1 p.m. to 3 p.m. Rain date September 11.
-
-# insert pic somewhere
 
 *R.s.v.p.* (with number of kids eating ice cream, and total number of
  people) to [zimolzak@fastmail.com](mailto:zimolzak@fastmail.com), or
