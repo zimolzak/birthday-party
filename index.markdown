@@ -11,4 +11,4 @@ layout: home
 *R.s.v.p.* to [zimolzak@fastmail.com](mailto:zimolzak@fastmail.com),
  or by text if you have my number.
 
-See the post called [Party Details](/main/2022/09/03/party-details.html) for more information.
+See the post called [Party Details](/birthday-party/main/2022/09/03/party-details.html) for more information.
