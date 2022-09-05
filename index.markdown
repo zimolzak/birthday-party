@@ -17,3 +17,5 @@ No gifts, please! Birthday cards are welcome. Just bring yourselves.
 Please note: no restrooms at the main park.
 
 See the post called [Party Details](/birthday-party/main/2022/09/03/party-details.html) for more information.
+
+[picture of alex](/birthday-party/alex.jpg)

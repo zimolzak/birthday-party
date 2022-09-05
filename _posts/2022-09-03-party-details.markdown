@@ -32,6 +32,16 @@ you if it's cancelled due to rain.**
 
 
 
+# Attention Crossing Borders friends
+
+*Please feel free to send to others from Alex's class!*
+
+Kids whose parents' numbers I already have: Adrian, Bella, Ben, Sarah,
+Maria Victoria.
+
+
+
+
 # Other ways to find it
 
 [Google Maps](https://goo.gl/maps/WqQSf8B9dVePbDBr9) link.
