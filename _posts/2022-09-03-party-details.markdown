@@ -6,7 +6,7 @@ categories: main
 ---
 
 Saturday, **September 10** is the main date. September 11 is a rain
-date. Meet from 1pm to 3pm.
+date. Meet from **1pm to 3pm.**
 
 # Address
 
@@ -21,6 +21,8 @@ Houston, TX 77030
 Andrew Zimolzak  
 [zimolzak@fastmail.com](mailto:zimolzak@fastmail.com)
 
+# repeat info about what details.
+
 For my cell phone number, you either received a printed invitation
 with my number, or I texted you. I'm in area code 517. **I will text
 you if it's cancelled due to rain.**
@@ -33,9 +35,9 @@ you if it's cancelled due to rain.**
 
 # Other ways to find it
 
-[OpenStreetMap](https://osm.org/go/TuQNfDLrP?way=216506690) link.
-
 [Google Maps](https://goo.gl/maps/WqQSf8B9dVePbDBr9) link.
+
+[OpenStreetMap](https://osm.org/go/TuQNfDLrP?way=216506690) link.
 
 **Plus code:** PH2P+XC University Place, Houston, TX  
 **Latitude and longitude:** 29.702, -95.414
@@ -48,31 +50,31 @@ of Roberts Elementary.
 
 
 
-# When you're there
-
-
-## The park has
+# The park has
 
 - swings
 - slides
 - jungle gyms
 - small field to play
 - Two hour free street parking.
+- *No restrooms!*
+- a few benches and tables
 
 
-## We bring
+# We bring
 
 - ice cream
 - beverages
 - snacks
 
-## You bring
+# You bring
 
 - yourselves
 - a birthday card if you want
 - no gifts please
+- something to sit on if you want
 
-## Important Houston park rules
+# Important Houston park rules
 
 - no glass containers
 - no alcohol
