@@ -36,8 +36,8 @@ you if it's cancelled due to rain.**
 
 *Please feel free to send to others from Alex's class!*
 
-Kids whose parents' numbers I already have: Adrian, Bella, Ben, Sarah,
-Maria Victoria.
+I already have contact information for: Adrian, Bella, Ben, Sarah,
+Maria Victoria, Melany.
 
 
 
