@@ -1,7 +1,7 @@
-title: Alex is turning six!
+title: Alex's Blog
 email: zimolzak@fastmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  It's a play date in a park in Houston, on September 10, 2022.
+  It's Alex's Blog.
 baseurl: "/birthday-party" # the subpath of your site, e.g. /blog
 url: "https://zimolzak.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb  # what happens here
