@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Drawing of Shoebill"
+date:   2023-05-14 16:51:00 -0500
+categories: main
+---
+
+Here is Alex's drawing of a shoebill. (Please note that it is eating
+fish. There are "alive fish" and "dead fish.")
+
+![drawing of a shoebill bird](/birthday-party/shoebill.jpg)
