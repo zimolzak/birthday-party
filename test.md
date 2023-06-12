@@ -2,27 +2,25 @@
 layout: page
 ---
 
-This is test.
+# List
 
-# Heading one
+- GMRS
+- new sandals, new work shoes
+- single paddle
+- jeans
+- wine down
+- bed pillow
+- small tent
+- qrp labs qcx-mini kit
 
-okay.
 
-- list
-- again
-- tim
-- hat
 
-## Two
 
-- head
-- fit
-- go
-- boat
+# Low priority
 
-# Major heading
-
-- next
-- go
-- boat
-- domino
+- code practice oscillator
+- PiAware
+- vibroplex
+- begali single paddle
+- suit
+- armoire
