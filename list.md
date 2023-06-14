@@ -8,14 +8,8 @@ Wish list, as of 2023-06-13
 
 ## Not found on Amazon list
 
-- Jeans, waist 34, length 32, Levi's:
-    - 501 (button fly)
-    - 505 (regular/straight)
-    - 514 (classic straight)
-    - *maybe* 541
-    - maybe not 550 (relaxed)
 
-- Sandals: slightly dressy, for outdoors, similar to my current ones.
+- Sandals: slightly dressy, for outdoors, similar to my current ones, which are from L.L. Bean. Ask for a pic, or maybe I will post one soon. 
   Dark leather strap. No strap on the heel. The kind that go between
   big toe and 2nd toe, not the kind that go all the way over the
   instep.
@@ -32,6 +26,14 @@ Wish list, as of 2023-06-13
     - Bencher ST-1 $150, vibroplex.com
     - Vibrokeyer Standard $180, vibroplex.com
     - Begali "simplex mono basic" or "simplex mono", i2rtf.com
+
+- Jeans, waist 34, length 32, Levi's:
+    - 501 (button fly)
+    - 505 (regular/straight)
+    - 514 (classic straight)
+    - *maybe* 541
+    - maybe not 550 (relaxed)
+
 
 - QCX-mini kit, 40m band, $55. Yes, the kit, not the assembled
   version. qrp-labs.com
@@ -57,6 +59,8 @@ the list above.
   several people in one family share one license to talk on certain
   frequencies.
 
+- any of the kindle books on that list. 
+
 
 
 
@@ -79,4 +83,4 @@ standard, $220. vibroplex.com
 
 - armoire that will hold light jackets, lots of small kids' coats,
   hats. Probably 2 hanging rods, or with drawers inside? Not too
-  heavy. For front entryway or near back door.
+  heavy. For front entryway or near back door. Probably need to check about size.
