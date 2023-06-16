@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Wish list, as of 2023-06-13
+Wish list, as of 2023-06-16
 
 # High priority
 
@@ -38,7 +38,7 @@ Wish list, as of 2023-06-13
 - QCX-mini kit, 40m band, $55. Yes, the kit, not the assembled
   version. qrp-labs.com
 
-- small tent for 2-person backyard camping
+- small tent for 2-person backyard camping. Fair warning: **someone is already considering buying this gift.** Get something *not* super cheap. It should be able to withstand mild rain and wind. Buying something brand-name would be reasonable. Not a toy tent. Don't buy the top-of-the line $700 item designed for ultra-lightweight backpacking or to withstand blizzards, etc.
 
 
 
