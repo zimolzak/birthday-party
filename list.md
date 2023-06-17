@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Wish list, as of 2023-06-16
+AJZ (not Alex) Wish list, as of 2023-06-16
 
 # High priority
 
