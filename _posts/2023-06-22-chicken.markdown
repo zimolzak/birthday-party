@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Drawing of a Chicken and Egg"
+date:   2023-06-22 10:30:00 -0500
+categories: main
+---
+
+Here are Alex's drawings of Super Chicken and Shelly the Egg.
+
+![drawing of Super Chicken](/birthday-party/chicken.jpg)
+
+![drawing of Shelly the Egg](/birthday-party/egg.jpg)
+
+![Source material from Highlights book](/birthday-party/source.jpg)
+
+Source: *The Highlights Book of Things to Do.* Highlights Press, 2020.
+p. 115.
