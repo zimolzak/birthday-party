@@ -6,7 +6,8 @@ AJZ (not Alex) Wish list, as of 2023-06-21
 
 # High priority
 
-## Not found on Amazon list
+These are things I would start using right away and keep using a lot,
+possibly daily.
 
 - **Sandals**: slightly dressy, for outdoors, similar to my current
   ones, which are from L.L. Bean. Dark leather strap. No strap on the
@@ -35,13 +36,11 @@ AJZ (not Alex) Wish list, as of 2023-06-21
     - *maybe* 541
     - maybe not 550 (relaxed)
 
-- **QCX-mini kit**, which is a little tiny radio that you build. Get
-  it for the **40m band**. $55. Yes, the kit, not the assembled
-  version. qrp-labs.com
-
-
-
-
+- **Old-timey "straight key"** for morse code. Search ebay for "navy
+    flameproof" or "vintage straight key." Ideally get one that has
+    all or most of the parts. (Don't buy just the knob, or a key
+    without the knob. Key and knob without the base is okay. Without
+    wires is probably okay.)
 
 ## Already on Amazon list
 
@@ -49,9 +48,10 @@ All items on the Amazon list are "approved by me" and look like they
 would work, if you are not sure about buying the "right" thing from
 the list above.
 
-- **Security camera monitor/recorder** to test out the security
-  cameras in our house. Mostly needs to have BNC video in and should
-  have HDMI out.
+- A long, narrow **strip of cork** that can go on a wall and be hung
+  up with nails. Should have: some kind of frame (like aluminum),
+  about 4--6 feet long and 1--2 inch wide. Ideally with two little
+  attached eyelets for the nails to hold it to the wall.
 
 - **NanoVNA antenna analyzer.** This lets me see how well radio
   antennas are set up, especially small, temporary ones.
@@ -68,6 +68,14 @@ the list above.
 # Medium priority
 
 - Any **short sleeve shirt from criquetshirts.com,** around $90
+
+- **QCX-mini kit**, which is a little tiny radio that you build. Get
+  it for the **40m band**. $55. Yes, the kit, not the assembled
+  version. qrp-labs.com
+
+- Radio **antenna,** MFJ-1982MP. This lets me talk on some frequencies
+  that I have never used so far, and it can be easily taken somewhere,
+  set up temporarily, and taken down again. $100 on mfjenterprises.com
 
 - **Code practice oscillator** for morse code.
 
@@ -86,4 +94,5 @@ the list above.
   Probably 2 hanging rods, or with drawers inside? Not too heavy. For
   front entryway or near back door. Probably need to check about size.
 
-- I slightly want a **bike with electric assist motor.**
+- I slightly want a **bike with electric assist motor.** *Consumer
+  Reports* has a list that I can show you.
