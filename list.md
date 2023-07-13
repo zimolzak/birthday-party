@@ -96,3 +96,7 @@ the list above.
 
 - I slightly want a **bike with electric assist motor.** *Consumer
   Reports* has a list that I can show you.
+
+- Book, *Clinical Research Informatics* Third Edition, edited by
+  Richesson, Andrews, and Hollis.
+  https://link.springer.com/book/10.1007/978-3-031-27173-1
