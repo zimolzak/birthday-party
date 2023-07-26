@@ -46,6 +46,8 @@ possibly daily.
 
 - Belt, casual. Has to be lightweight (can have a metal buckle, but not if it's a large metal buckle). Any material for the strap is OK. Mostly for wearing with shorts. Lots more colors and designs are acceptable.
 
+- https://www.danperri.com/book
+
 ## Already on Amazon list
 
 All items on the Amazon list are "approved by me" and look like they
