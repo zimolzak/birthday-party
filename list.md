@@ -20,6 +20,8 @@ possibly daily.
   dressy. Could be "gift card situation" (the kind of thing that I
   would shop for myself).
 
+- **Casual shoes** like these styles by Allbirds: Tree Dasher, Tree Runners, Tree Pipers, Tree Skippers, Canvas Pacers. Any color *except* orange, yellow, purple, pink, white.
+
 - **Pillow:** New pillow for bed. Not too thick or firm. Regular poly
   stuff fill, not feathers, not memory foam.
 
@@ -29,12 +31,14 @@ possibly daily.
     - Vibrokeyer Standard $180, vibroplex.com
     - Begali "simplex mono basic" or "simplex mono", i2rtf.com
 
-- **Jeans**, waist 34, length 32, Levi's:
+- **Jeans**, waist 34, length 32, Levi's. Color: any dark blue or medium blue (not light wash):
     - 501 (button fly)
     - 505 (regular/straight)
     - 514 (classic straight)
     - *maybe* 541
     - maybe not 550 (relaxed)
+
+- Maybe a different pair of jeans appropriate for casual days at work? Colors like dark grey, dark olive, brown, tan/khaki.
 
 - **Old-timey "straight key"** for morse code. Search ebay for "navy
     flameproof" or "vintage straight key." Ideally get one that has
