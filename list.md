@@ -46,7 +46,7 @@ possibly daily.
     without the knob. Key and knob without the base is okay. Without
     wires is probably okay.)
 
-- New belt. Brown or black leather, for work. simple design without a lot of stitching or decoration. strap Hass to be 36 inches to fit correctly with enough leeway.
+- New belt. Brown or black leather, for work. simple design without a lot of stitching or decoration. strap has to be 36 inches to fit correctly with enough leeway.
 
 - Belt, casual. Has to be lightweight (can have a metal buckle, but not if it's a large metal buckle). Any material for the strap is OK. Mostly for wearing with shorts. Lots more colors and designs are acceptable.
 
