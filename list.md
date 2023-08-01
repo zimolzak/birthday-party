@@ -105,7 +105,7 @@ the list above.
   front entryway or near back door. Probably need to check about size.
 
 - I slightly want a **bike with electric assist motor.** *Consumer
-  Reports* has a list that I can show you.
+  Reports* has a list that I can show you. https://ebikeescape.com/flyer-l885-cargo-ebike-review/
 
 - Book, *Clinical Research Informatics* Third Edition, edited by
   Richesson, Andrews, and Hollis.
