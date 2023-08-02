@@ -20,16 +20,16 @@ possibly daily.
   dressy. Could be "gift card situation" (the kind of thing that I
   would shop for myself).
 
-- **Casual shoes** like these styles by Allbirds: Tree Dasher, Tree Runners, Tree Pipers, Tree Skippers, Canvas Pacers. Any color *except* orange, yellow, purple, pink, white.
+- **Casual shoes** like these styles by [Allbirds](https://www.allbirds.com): Tree Dasher, Tree Runners, Tree Pipers, Tree Skippers, Canvas Pacers. Any color *except* orange, yellow, purple, pink, white.
 
 - **Pillow:** New pillow for bed. Not too thick or firm. Regular poly
   stuff fill, not feathers, not memory foam.
 
 - **Single lever paddle** for morse code.
-    - search gigaparts.com for "single paddle", $43
-    - Bencher ST-1 $150, vibroplex.com
-    - Vibrokeyer Standard $180, vibroplex.com
-    - Begali "simplex mono basic" or "simplex mono", i2rtf.com
+    - search [gigaparts.com](https://www.gigaparts.com) for "single paddle", $43
+    - Bencher ST-1 $150, [vibroplex.com](vibroplex.com)
+    - Vibrokeyer Standard $180, [vibroplex.com](vibroplex.com)
+    - Begali "simplex mono basic" or "simplex mono", [i2rtf.com](i2rtf.com)
 
 - **Jeans**, waist 34, length 32, Levi's. Color: any dark blue or medium blue (not light wash):
     - 501 (button fly)
@@ -50,7 +50,7 @@ possibly daily.
 
 - Belt, casual. Has to be lightweight (can have a metal buckle, but not if it's a large metal buckle). Any material for the strap is OK. Mostly for wearing with shorts. Lots more colors and designs are acceptable.
 
-- https://www.danperri.com/book
+- [https://www.danperri.com/book](https://www.danperri.com/book): an interesting-looking book from a famous movie title designer
 
 ## Already on Amazon list
 
@@ -77,25 +77,25 @@ the list above.
 
 # Medium priority
 
-- Any **short sleeve shirt from criquetshirts.com,** around $90
+- Any **short sleeve shirt from Criquet**, [criquetshirts.com](criquetshirts.com), around $90
 
 - **QCX-mini kit**, which is a little tiny radio that you build. Get
   it for the **40m band**. $55. Yes, the kit, not the assembled
-  version. qrp-labs.com
+  version. [qrp-labs.com](qrp-labs.com)
 
 - Radio **antenna,** MFJ-1982MP. This lets me talk on some frequencies
   that I have never used so far, and it can be easily taken somewhere,
-  set up temporarily, and taken down again. $100 on mfjenterprises.com
+  set up temporarily, and taken down again. $100 on [mfjenterprises.com](mfjenterprises.com)
 
 - **Code practice oscillator** for morse code.
 
-    - gigaparts.com sells "Scout CPO," $50
+    - [gigaparts.com](gigaparts.com) sells "Scout CPO," $50
 
     - MFJ-557, $70. Probably not as useful as one that is "just" a
-    speaker box by itself. Buy from mfjenterprises.com, not Amazon.
+    speaker box by itself. Buy from [mfjenterprises.com](mfjenterprises.com), not Amazon.
 
 - **Semi-automatic "bug" morse code key.** Such as vibroplex original
-  standard, $220. vibroplex.com
+  standard, $220. [vibroplex.com](vibroplex.com)
 
 - **Men's suit.** Could be "gift card situation" (the kind of thing
   that I would shop for myself but am not sure where)
@@ -105,8 +105,8 @@ the list above.
   front entryway or near back door. Probably need to check about size.
 
 - I slightly want a **bike with electric assist motor.** *Consumer
-  Reports* has a list that I can show you. https://ebikeescape.com/flyer-l885-cargo-ebike-review/
+  Reports* has a list that I can show you. [Example link](https://ebikeescape.com/flyer-l885-cargo-ebike-review/)
 
 - Book, *Clinical Research Informatics* Third Edition, edited by
   Richesson, Andrews, and Hollis.
-  https://link.springer.com/book/10.1007/978-3-031-27173-1
+  [publisher link](https://link.springer.com/book/10.1007/978-3-031-27173-1)
