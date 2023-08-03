@@ -27,9 +27,9 @@ possibly daily.
 
 - **Single lever paddle** for morse code.
     - search [gigaparts.com](https://www.gigaparts.com) for "single paddle", $43
-    - Bencher ST-1 $150, [vibroplex.com](vibroplex.com)
-    - Vibrokeyer Standard $180, [vibroplex.com](vibroplex.com)
-    - Begali "simplex mono basic" or "simplex mono", [i2rtf.com](i2rtf.com)
+    - Bencher ST-1 $150, [vibroplex.com](https://vibroplex.com)
+    - Vibrokeyer Standard $180, [vibroplex.com](https://vibroplex.com)
+    - Begali "simplex mono basic" or "simplex mono", [i2rtf.com](https://i2rtf.com)
 
 - **Jeans**, waist 34, length 32, Levi's. Color: any dark blue or medium blue (not light wash):
     - 501 (button fly)
@@ -77,25 +77,25 @@ the list above.
 
 # Medium priority
 
-- Any **short sleeve shirt from Criquet**, [criquetshirts.com](criquetshirts.com), around $90
+- Any **short sleeve shirt from Criquet**, [criquetshirts.com](https://criquetshirts.com), around $90
 
 - **QCX-mini kit**, which is a little tiny radio that you build. Get
   it for the **40m band**. $55. Yes, the kit, not the assembled
-  version. [qrp-labs.com](qrp-labs.com)
+  version. [qrp-labs.com](https://qrp-labs.com)
 
 - Radio **antenna,** MFJ-1982MP. This lets me talk on some frequencies
   that I have never used so far, and it can be easily taken somewhere,
-  set up temporarily, and taken down again. $100 on [mfjenterprises.com](mfjenterprises.com)
+  set up temporarily, and taken down again. $100 on [mfjenterprises.com](https://mfjenterprises.com)
 
 - **Code practice oscillator** for morse code.
 
-    - [gigaparts.com](gigaparts.com) sells "Scout CPO," $50
+    - [gigaparts.com](https://gigaparts.com) sells "Scout CPO," $50
 
     - MFJ-557, $70. Probably not as useful as one that is "just" a
-    speaker box by itself. Buy from [mfjenterprises.com](mfjenterprises.com), not Amazon.
+    speaker box by itself. Buy from [mfjenterprises.com](https://mfjenterprises.com), not Amazon.
 
 - **Semi-automatic "bug" morse code key.** Such as vibroplex original
-  standard, $220. [vibroplex.com](vibroplex.com)
+  standard, $220. [vibroplex.com](https://vibroplex.com)
 
 - **Men's suit.** Could be "gift card situation" (the kind of thing
   that I would shop for myself but am not sure where)
