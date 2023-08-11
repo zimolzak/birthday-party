@@ -22,9 +22,6 @@ possibly daily.
 
 - **Casual shoes** like these styles by [Allbirds](https://www.allbirds.com): Tree Dasher, Tree Runners, Tree Pipers, Tree Skippers, Canvas Pacers. Any color *except* orange, yellow, purple, pink, white.
 
-- **Pillow:** New pillow for bed. Not too thick or firm. Regular poly
-  stuff fill, not feathers, not memory foam.
-
 - **Single lever paddle** for morse code.
     - search [gigaparts.com](https://www.gigaparts.com) for "single paddle", $43
     - Bencher ST-1 $150, [vibroplex.com](https://vibroplex.com)
@@ -38,7 +35,7 @@ possibly daily.
     - *maybe* 541
     - maybe not 550 (relaxed)
 
-- Maybe a different pair of jeans appropriate for casual days at work? Colors like dark grey, dark olive, brown, tan/khaki.
+- Maybe a different pair of **jeans** appropriate for casual days at work? Colors like dark grey, dark olive, brown, tan/khaki.
 
 - **Old-timey "straight key"** for morse code. Search ebay for "navy
     flameproof" or "vintage straight key." Ideally get one that has
@@ -46,9 +43,9 @@ possibly daily.
     without the knob. Key and knob without the base is okay. Without
     wires is probably okay.)
 
-- New belt. Brown or black leather, for work. simple design without a lot of stitching or decoration. strap has to be 36 inches to fit correctly with enough leeway.
+- New **belt**. Brown or black leather, for work. simple design without a lot of stitching or decoration. strap has to be 36 inches to fit correctly with enough leeway.
 
-- Belt, casual. Has to be lightweight (can have a metal buckle, but not if it's a large metal buckle). Any material for the strap is OK. Mostly for wearing with shorts. Lots more colors and designs are acceptable.
+- **Belt**, casual. Has to be lightweight (can have a metal buckle, but not if it's a large metal buckle). Any material for the strap is OK. Mostly for wearing with shorts. Lots more colors and designs are acceptable.
 
 - [https://www.danperri.com/book](https://www.danperri.com/book): an interesting-looking book from a famous movie title designer
 
@@ -76,6 +73,8 @@ the list above.
 
 
 # Medium priority
+
+- **Fix up bass guitar.** The middle potentiometer has always been weird and turns too far around. Some things seem intermittently not connected to the right pickups. Pay for somebody to check and repair. Include: cheap soft "gig bag" for bass, probaby $30--40.
 
 - Any **short sleeve shirt from Criquet**, [criquetshirts.com](https://criquetshirts.com), around $90
 
