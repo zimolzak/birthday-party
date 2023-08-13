@@ -49,6 +49,11 @@ possibly daily.
 
 - [https://www.danperri.com/book](https://www.danperri.com/book): an interesting-looking book from a famous movie title designer
 
+- Some kind of **loop gizmo** for music. The idea is, I record one instrument bit, the machine plays it through a speaker, and then I play something along on a different instument. Maybe what's called a "looper pedal" but I'm not sure. Got to be self-contained and as simple as possible (if I have to break out my laptop each time and connect it, I will never use it). Maybe speaker included? Should be able to record several minutes if needed.
+
+
+
+
 ## Already on Amazon list
 
 All items on the Amazon list are "approved by me" and look like they
