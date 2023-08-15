@@ -58,6 +58,8 @@ rectangle-type end, instead of coming to a point.
 
 - **Tie clip,** a cool, classy style, so it doesn't flop forward and drag on things if I bend over. Doesn't have to be literally made of a precious metal. Either a "plain" one, or something with a fun but subtle motif: pattern, texture, my monogram. Cool shapes: anchor, key, whale, Rod of Asclepius. Especially something that is a "frieze" pattern (just do an image search for 'frieze pattern').
 
+- **Dress shirts,** probably Brooks Brothers, generally light weight. Get button-down collar. Probably mostly solid colors. I am running low, surprisingly. Size 16 (or maybe 17?) / 34.
+
 
 
 
