@@ -51,6 +51,13 @@ possibly daily.
 
 - Some kind of **loop gizmo** for music. The idea is, I record one instrument bit, the machine plays it through a speaker, and then I play something along on a different instument. Maybe what's called a "looper pedal" but I'm not sure. Got to be self-contained and as simple as possible (if I have to break out my laptop each time and connect it, I will never use it). Maybe speaker included? Should be able to record several minutes if needed.
 
+- **Necktie,** solid colors, dark generally, made of silk. I want a
+few in the "skinny" style, like 2 inches wide, without much "tapering"
+as it goes from the bottom to the top. Possibly with a blunt,
+rectangle-type end, instead of coming to a point.
+
+- **Tie clip,** a cool, classy style, so it doesn't flop forward and drag on things if I bend over. Doesn't have to be literally made of a precious metal. Either a "plain" one, or something with a fun but subtle motif: pattern, texture, my monogram. Cool shapes: anchor, key, whale, Rod of Asclepius. Especially something that is a "frieze" pattern (just do an image search for 'frieze pattern').
+
 
 
 
