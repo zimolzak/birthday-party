@@ -22,7 +22,7 @@ possibly daily.
 
 - **Casual shoes** like these styles by [Allbirds](https://www.allbirds.com): Tree Dasher, Tree Runners, Tree Pipers, Tree Skippers, Canvas Pacers. Any color *except* orange, yellow, purple, pink, white.
 
-- **Single lever paddle** for morse code.
+- **Single lever paddle** for Morse code.
     - search [gigaparts.com](https://www.gigaparts.com) for "single paddle", $43
     - Bencher ST-1 $150, [vibroplex.com](https://vibroplex.com)
     - Vibrokeyer Standard $180, [vibroplex.com](https://vibroplex.com)
@@ -37,7 +37,7 @@ possibly daily.
 
 - Maybe a different pair of **jeans** appropriate for casual days at work? Colors like dark grey, dark olive, brown, tan/khaki.
 
-- **Old-timey "straight key"** for morse code. Search ebay for "navy
+- **Old-timey "straight key"** for Morse code. Search ebay for "navy
     flameproof" or "vintage straight key." Ideally get one that has
     all or most of the parts. (Don't buy just the knob, or a key
     without the knob. Key and knob without the base is okay. Without
@@ -100,14 +100,31 @@ the list above.
   that I have never used so far, and it can be easily taken somewhere,
   set up temporarily, and taken down again. $100 on [mfjenterprises.com](https://mfjenterprises.com)
 
-- **Code practice oscillator** for morse code.
+- **Mosrse code electronic gizmos**
 
-    - [gigaparts.com](https://gigaparts.com) sells "Scout CPO," $50
+    - [gigaparts.com](https://gigaparts.com) sells "Scout CPO," $50. A
+      code practice oscillator is literally just a speaker that goes
+      "boop," to practice using any Morse code key.
 
-    - MFJ-557, $70. Probably not as useful as one that is "just" a
-    speaker box by itself. Buy from [mfjenterprises.com](https://mfjenterprises.com), not Amazon.
+    - MFJ-557, $70. Also a code practice oscillator, but has a key
+    attached, so maybe not as useful as one that is "just" a speaker
+    box by itself. Buy from
+    [mfjenterprises.com](https://mfjenterprises.com), not Amazon.
 
-- **Semi-automatic "bug" morse code key.** Such as vibroplex original
+    - MFJ-419 "CW Elmer," $170. Portable gizmo that also interprets
+      what you send and makes up random letters for you to copy.
+
+    - CW Hotline from [Ham Radio
+      Solutions](https://www.hamradio.solutions). This lets you sit
+      anywhere and send Morse code using your radio that sits at home.
+      Probably okay with kit *or* fully assembled.
+
+    - K45B CW Modem from [K1EL Systems](https://www.k1elsystems.com).
+      Type on a keyboard and out comes Morse code letters to your
+      radio. Listens to your radio and displays the Morse code that it
+      hears. No computer required.
+
+- **Semi-automatic "bug" Morse code key.** Such as vibroplex original
   standard, $220. [vibroplex.com](https://vibroplex.com)
 
 - **Men's suit.** Could be "gift card situation" (the kind of thing
