@@ -1,7 +1,5 @@
 ---
 layout: page
-title: "Past Party"
-permalink: /past-party
 ---
 
 - **Where:** Braeswood Park, 2399 Maroneal St

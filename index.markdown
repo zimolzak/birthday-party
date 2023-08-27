@@ -5,4 +5,4 @@
 layout: home
 ---
 
-See the page called [Past Party](/birthday-party/past-party) for old information.
+Party coming soon, September 2023!

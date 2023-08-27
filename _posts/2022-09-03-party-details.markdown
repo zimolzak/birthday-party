@@ -5,8 +5,7 @@ date:   2022-09-03 08:13:14 -0500
 categories: main
 ---
 
-Saturday, **September 10** is the main date. September 11 is a rain
-date. Meet from **1pm to 3pm.**
+Date and time for 2023 TBD.
 
 # Address
 
