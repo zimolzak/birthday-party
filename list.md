@@ -28,13 +28,14 @@ possibly daily.
 
 - **Morse code electronic gizmos**
 
-    - MFJ-419 "CW Elmer," $170. Portable gizmo that also interprets
-      what you send and makes up random letters for you to copy.
+    - MFJ-419 "CW Elmer," $170. Portable gizmo for Morse code
+      practice. It interprets what you send and makes up random
+      letters for you to copy.
 
     - K45B CW Modem from [K1EL Systems](https://www.k1elsystems.com).
       Type on a keyboard and out comes Morse code letters to your
       radio. Listens to your radio and displays the Morse code that it
-      hears. No computer required. $239
+      hears. No computer required. $239.
 
     - [gigaparts.com](https://gigaparts.com) sells "Scout CPO," $50. A
       code practice oscillator is literally just a speaker that goes
@@ -45,16 +46,15 @@ possibly daily.
       anywhere and send Morse code using your radio that sits at home.
       Probably okay with kit *or* fully assembled.
 
-
 - **Single lever paddle** for Morse code.
 
     - search [gigaparts.com](https://www.gigaparts.com) for "single
-      paddle", about $43
+      paddle", about $43.
     
-    - Bencher ST-1 $150, [vibroplex.com](https://vibroplex.com). This
+    - Bencher ST-1. $150. [vibroplex.com](https://vibroplex.com). This
       is supposedly a lovely one to use.
     
-    - Vibrokeyer Standard $180, [vibroplex.com](https://vibroplex.com)
+    - Vibrokeyer Standard. $180. [vibroplex.com](https://vibroplex.com)
     
     - Begali "simplex mono basic" or "simplex mono",
       [i2rtf.com](https://i2rtf.com). These are pricey.
@@ -91,7 +91,7 @@ possibly daily.
 
 - Some kind of **loop gizmo** for music. The idea is, I record one
   instrument bit, the machine plays it through a speaker, and then I
-  play something along on a different instument. Maybe what's called a
+  play something along on a different instrument. Maybe what's called a
   "looper pedal" but I'm not sure. Got to be self-contained and as
   simple as possible (if I have to break out my laptop each time and
   connect it, I will never use it). Maybe speaker included? Should be
@@ -121,7 +121,8 @@ possibly daily.
 
 
 
-## Already on Amazon list
+
+# High priority but already on Amazon list
 
 All items on the Amazon list are "approved by me" and look like they
 would work, if you are not sure about buying the "right" thing from
@@ -152,10 +153,10 @@ the list above.
   weird and turns too far around. Some things seem intermittently not
   connected to the right pickups. Pay for somebody to check and repair
   (Rockin' Robin on Greenbriar in Houston is pretty close to us).
-  Include: cheap soft "gig bag" for bass, probaby $30--40.
+  Include: cheap soft "gig bag" for bass, probably $30--40.
 
 - Any **short sleeve shirt from Criquet**,
-  [criquetshirts.com](https://criquetshirts.com), around $90
+  [criquetshirts.com](https://criquetshirts.com), around $90.
 
 - **QCX-mini kit**, which is a little tiny radio that you build. Get
   it for the **40m band**. $55. Yes, the kit, not the assembled
@@ -163,21 +164,19 @@ the list above.
 
 - Radio **antenna,** MFJ-1982MP. This lets me talk on some frequencies
   that I have never used so far, and it can be easily taken somewhere,
-  set up temporarily, and taken down again. $100 on [mfjenterprises.com](https://mfjenterprises.com)
+  set up temporarily, and taken down again. $100 on
+  [mfjenterprises.com](https://mfjenterprises.com)
 
 - **Semi-automatic "bug" Morse code key.** Such as vibroplex original
-  standard, $220. [vibroplex.com](https://vibroplex.com)
+  standard. $220. [vibroplex.com](https://vibroplex.com)
 
 - **Men's suit.** Could be "gift card situation" (the kind of thing
   that I would shop for myself but am not sure where)
 
-- **Armoire:** to hold light jackets, lots of small kids' coats, hats.
-  Probably 2 hanging rods, or with drawers inside? Not too heavy. For
-  front entryway or near back door. Probably need to check about size.
-
 - I slightly want a **bike with electric assist motor.** *Consumer
-  Reports* has a list that I can show you. [Example link](https://ebikeescape.com/flyer-l885-cargo-ebike-review/)
+  Reports* has a list that I can show you. [Example
+  link](https://ebikeescape.com/flyer-l885-cargo-ebike-review/)
 
 - Book, *Clinical Research Informatics* Third Edition, edited by
-  Richesson, Andrews, and Hollis.
-  [publisher link](https://link.springer.com/book/10.1007/978-3-031-27173-1)
+  Richesson, Andrews, and Hollis. [publisher
+  link](https://link.springer.com/book/10.1007/978-3-031-27173-1)
