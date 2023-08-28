@@ -6,11 +6,12 @@ categories: main
 ---
 
 - **Where:** Braeswood Park, 2399 Maroneal St
-- **When:** TBD.
+- **When:** TBD. (Possibly September 10?)
 
-*R.s.v.p.* (with number of kids eating ice cream, and total number of
- people) to [zimolzak@fastmail.com](mailto:zimolzak@fastmail.com), or
- by text if you have my number.
+*R.s.v.p.* (with number of kids eating pizza and cupcaked, and total
+ number of people) to
+ [zimolzak@fastmail.com](mailto:zimolzak@fastmail.com), or by text if
+ you have my number.
 
 No gifts, please! Birthday cards are welcome. Just bring yourselves.
 Please note: no restrooms at the main park.

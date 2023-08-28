@@ -5,7 +5,7 @@ date:   2022-09-03 08:13:14 -0500
 categories: main
 ---
 
-Date and time for 2023 TBD.
+Date and time for 2023 TBD. (Possibly September 10)
 
 # Address
 
@@ -15,7 +15,7 @@ Houston, TX 77030
 
 # Contact
 
-*R.s.v.p.* (with number of kids eating ice cream, and total number of
+*R.s.v.p.* (with number of kids eating pizza and cupcakes, and total number of
  people) by text or e-mail to:
 
 Andrew Zimolzak  
@@ -69,7 +69,7 @@ of Roberts Elementary.
 
 # We bring
 
-- ice cream
+- pizza and cupcakes
 - beverages
 - snacks
 
