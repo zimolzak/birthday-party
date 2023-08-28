@@ -2,7 +2,7 @@
 layout: page
 ---
 
-AJZ (not Alex) Wish list, as of 2023-06-21
+AJZ (not Alex) Wish list, as of August 2023.
 
 # High priority
 
@@ -26,42 +26,47 @@ possibly daily.
   orange, yellow, purple, pink, white. Or just send me to their store
   in our neighborhood.
 
-- **Mosrse code electronic gizmos**
+- **Morse code electronic gizmos**
+
+    - MFJ-419 "CW Elmer," $170. Portable gizmo that also interprets
+      what you send and makes up random letters for you to copy.
+
+    - K45B CW Modem from [K1EL Systems](https://www.k1elsystems.com).
+      Type on a keyboard and out comes Morse code letters to your
+      radio. Listens to your radio and displays the Morse code that it
+      hears. No computer required. $239
 
     - [gigaparts.com](https://gigaparts.com) sells "Scout CPO," $50. A
       code practice oscillator is literally just a speaker that goes
       "boop," to practice using any Morse code key.
-
-    - MFJ-557, $70. Also a code practice oscillator, but has a key
-    attached, so maybe not as useful as one that is "just" a speaker
-    box by itself. Buy from
-    [mfjenterprises.com](https://mfjenterprises.com), not Amazon.
-
-    - MFJ-419 "CW Elmer," $170. Portable gizmo that also interprets
-      what you send and makes up random letters for you to copy.
 
     - CW Hotline from [Ham Radio
       Solutions](https://www.hamradio.solutions). This lets you sit
       anywhere and send Morse code using your radio that sits at home.
       Probably okay with kit *or* fully assembled.
 
-    - K45B CW Modem from [K1EL Systems](https://www.k1elsystems.com).
-      Type on a keyboard and out comes Morse code letters to your
-      radio. Listens to your radio and displays the Morse code that it
-      hears. No computer required.
 
 - **Single lever paddle** for Morse code.
-    - search [gigaparts.com](https://www.gigaparts.com) for "single paddle", $43
-    - Bencher ST-1 $150, [vibroplex.com](https://vibroplex.com)
-    - Vibrokeyer Standard $180, [vibroplex.com](https://vibroplex.com)
-    - Begali "simplex mono basic" or "simplex mono", [i2rtf.com](https://i2rtf.com)
 
-- **Jeans**, waist 34, length 32, Levi's. Color: any dark blue or medium blue (not light wash):
+    - search [gigaparts.com](https://www.gigaparts.com) for "single
+      paddle", about $43
+    
+    - Bencher ST-1 $150, [vibroplex.com](https://vibroplex.com). This
+      is supposedly a lovely one to use.
+    
+    - Vibrokeyer Standard $180, [vibroplex.com](https://vibroplex.com)
+    
+    - Begali "simplex mono basic" or "simplex mono",
+      [i2rtf.com](https://i2rtf.com). These are pricey.
+
+- **Jeans**, waist 34, length 32, Levi's. Color: any dark blue or
+    medium blue (not light wash):
+
     - 501 (button fly)
     - 505 (regular/straight)
     - 514 (classic straight)
     - *maybe* 541
-    - maybe not 550 (relaxed)
+    - probably not 550 (relaxed)
 
 - Maybe a different pair of **jeans** appropriate for casual days at
   work? Colors like dark grey, dark olive, brown, tan/khaki.
@@ -76,9 +81,9 @@ possibly daily.
   without a lot of stitching or decoration. strap has to be 36 inches
   to fit correctly with enough leeway.
 
-- **Belt**, casual. Has to be lightweight (can have a metal buckle,
-  but not if it's a large metal buckle). Any material for the strap is
-  OK. Mostly for wearing with shorts. Lots more colors and designs are
+- **Belt**, casual. Has to be **lightweight** (no heavy metal buckle,
+  no wide or thick leather). Any material for the strap is OK. Mostly
+  for wearing with shorts. Lots more colors and designs are
   acceptable.
 
 - [https://www.danperri.com/book](https://www.danperri.com/book): an
@@ -112,6 +117,7 @@ possibly daily.
   green. Possibly one of the "display" models that's die cast, like
   those made by Maisto. Or literally a Hot Wheels.
 
+![example of Jaguar model car](/birthday-party/jaguar.jpg)
 
 
 
@@ -124,7 +130,9 @@ the list above.
 - A long, narrow **strip of cork** that can go on a wall and be hung
   up with nails. Should have: some kind of frame (like aluminum),
   about 4--6 feet long and 1--2 inch wide. Ideally with two little
-  attached eyelets for the nails to hold it to the wall.
+  attached eyelets for the nails to hold it to the wall. I would use
+  this for hanging up things that make me happy on our wall at home,
+  without adding tape or holes to the walls
 
 - **NanoVNA antenna analyzer.** This lets me see how well radio
   antennas are set up, especially small, temporary ones.
