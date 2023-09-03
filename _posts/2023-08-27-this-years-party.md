@@ -6,7 +6,7 @@ categories: main
 ---
 
 - **Where:** Braeswood Park, 2399 Maroneal St (or 2345 Maroneal)
-- **When:** Saturday, September 16, 2023. Time of day TBD (Probably brunch time, like 10 a.m.\ until 12 or 1).
+- **When:** Saturday, September 16, 2023. Time of day TBD (Probably brunch time, like 10 a.m. until 12 or 1).
 
 *R.s.v.p.* (with number of kids eating pizza and cupcaked, and total
  number of people) to
