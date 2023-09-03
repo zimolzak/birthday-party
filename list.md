@@ -9,22 +9,24 @@ AJZ (not Alex) Wish list, as of August 2023.
 These are things I would start using right away and keep using a lot,
 possibly daily.
 
-- **Sandals**: slightly dressy, for outdoors, similar to my current
-  ones, which are from L.L. Bean. Dark leather strap. No strap on the
-  heel. The kind that go between big toe and 2nd toe, *not* the kind
-  that go all the way over the instep. See example:
+- Footwear, size 10
+
+    - **Sandals**: slightly dressy, for outdoors, similar to my current
+      ones, which are from L.L. Bean. Dark leather strap. No strap on the
+      heel. The kind that go between big toe and 2nd toe, *not* the kind
+      that go all the way over the instep. See example:
 
 ![example of flip-flops I like](/birthday-party/flipflop.jpg)
 
-- **Shoes** for work/office. Dark brown leather. Slip on. Mostly
-  dressy. Could be "gift card situation" (the kind of thing that I
-  would shop for myself).
+    - **Shoes** for work/office. Dark brown leather. Slip on. Mostly
+      dressy. Could be "gift card situation" (the kind of thing that I
+      would shop for myself).
 
-- **Casual shoes** like these styles by
-  [Allbirds](https://www.allbirds.com): Tree Dasher, Tree Runners,
-  Tree Pipers, Tree Skippers, Canvas Pacers. Any color *except*
-  orange, yellow, purple, pink, white. Or just send me to their store
-  in our neighborhood.
+    - **Casual shoes** like these styles by
+      [Allbirds](https://www.allbirds.com): Tree Dasher, Tree Runners,
+      Tree Pipers, Tree Skippers, Canvas Pacers. Any color *except*
+      orange, yellow, purple, pink, white. Or just send me to their store
+      in our neighborhood.
 
 - **Morse code electronic gizmos**
 
@@ -156,7 +158,10 @@ the list above.
   Include: cheap soft "gig bag" for bass, probably $30--40.
 
 - Any **short sleeve shirt from Criquet**,
-  [criquetshirts.com](https://criquetshirts.com), around $90.
+  [criquetshirts.com](https://criquetshirts.com), around $90. Size: medium.
+
+- Some kind of short sleeve polo shirt, not all-cotton, lightweight.
+  Details to come about colors/brands.
 
 - **QCX-mini kit**, which is a little tiny radio that you build. Get
   it for the **40m band**. $55. Yes, the kit, not the assembled
