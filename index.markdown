@@ -5,4 +5,3 @@
 layout: home
 ---
 
-Party coming soon, September 2023!

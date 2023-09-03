@@ -5,7 +5,9 @@ date:   2022-09-03 08:13:14 -0500
 categories: main
 ---
 
-Date and time for 2023 TBD. (Possibly September 10)
+Date and time for 2023 TBD. See [this year's
+party](/birthday-party/main/2023/08/27/this-years-party.html) for
+definite time/date.
 
 # Address
 
