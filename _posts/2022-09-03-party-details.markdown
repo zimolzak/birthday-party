@@ -64,7 +64,7 @@ of Roberts Elementary.
 - slides
 - jungle gyms
 - small field to play
-- Two hour free street parking.
+- 2-hour free street parking
 - *No restrooms!*
 - a few benches and tables
 
