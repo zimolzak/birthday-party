@@ -14,9 +14,7 @@ possibly daily.
     - **Sandals**: slightly dressy, for outdoors, similar to my current
       ones, which are from L.L. Bean. Dark leather strap. No strap on the
       heel. The kind that go between big toe and 2nd toe, *not* the kind
-      that go all the way over the instep. See example:
-
-![example of flip-flops I like](/birthday-party/flipflop.jpg)
+      that go all the way over the instep. See example: ![example of flip-flops I like](/birthday-party/flipflop.jpg)
 
     - **Shoes** for work/office. Dark brown leather. Slip on. Mostly
       dressy. Could be "gift card situation" (the kind of thing that I
