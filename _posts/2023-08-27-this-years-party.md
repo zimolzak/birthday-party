@@ -6,9 +6,9 @@ categories: main
 ---
 
 - **Where:** Braeswood Park, 2399 Maroneal St (or 2345 Maroneal)
-- **When:** Saturday, September 16, 2023. Time of day TBD (Probably brunch time, like 10 a.m. until 12 or 1).
+- **When:** Saturday, September 16, 2023. 11:30 a.m. to 1:30 p.m.
 
-*R.s.v.p.* (with number of kids eating pizza and cupcaked, and total
+*R.s.v.p.* (with number of kids eating pizza and cupcakes, and total
  number of people) to
  [zimolzak@fastmail.com](mailto:zimolzak@fastmail.com), or by text if
  you have my number.
@@ -16,6 +16,7 @@ categories: main
 No gifts, please! Birthday cards are welcome. Just bring yourselves.
 Please note: no restrooms at the main park.
 
-See [Party Details](/birthday-party/main/2022/09/03/party-details.html) for more information on the park.
+See [Party Details](/birthday-party/main/2022/09/03/party-details.html)
+for more information on the park.
 
 ![picture of Alex, August 2022](/birthday-party/alex.jpg)

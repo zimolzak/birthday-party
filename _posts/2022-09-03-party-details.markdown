@@ -5,9 +5,8 @@ date:   2022-09-03 08:13:14 -0500
 categories: main
 ---
 
-Date and time for 2023 TBD. See [this year's
-party](/birthday-party/main/2023/08/27/this-years-party.html) for
-definite time/date.
+Date and time for 2023: Saturday, September 16, 11:30 a.m. to 1:30
+p.m.
 
 # Address
 
@@ -27,23 +26,28 @@ For my cell phone number, you either received a printed invitation
 with my number, or I texted you. I'm in area code 517. **I will text
 you if it's cancelled due to rain.**
 
+
+
+
 # Map
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-95.41542291641237%2C29.701732002123837%2C-95.41367143392564%2C29.702920198759507&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/29.70233/-95.41455">View Larger Map</a></small>
 
 
 
+
 # Attention Crossing Borders friends
 
-*Please feel free to send to others from Alex's class!*
+*Please feel free to send invitation details to others we know from
+ Crossing Borders!*
 
-I already have contact information for: Adrian, Bella, Ben, Sarah,
-Maria Victoria, Melany.
+I should still have contact information for: Adrian, Bella, Ben,
+Sarah, Maria Victoria, Melany.
 
 
 
 
-# Other ways to find it
+# Other ways to find the park
 
 [Google Maps](https://goo.gl/maps/WqQSf8B9dVePbDBr9) link.
 
@@ -67,7 +71,6 @@ of Roberts Elementary.
 - 2-hour free street parking
 - *No restrooms!*
 - a few benches and tables
-
 
 # We bring
 
