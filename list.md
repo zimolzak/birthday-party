@@ -11,15 +11,17 @@ possibly daily.
 
 - **Dress shirts,** probably Brooks Brothers, generally light weight.
   Get button-down collar. Probably mostly solid colors. I am running
-  low, surprisingly. Size 16 (or maybe 17?) / 34.
+  low, surprisingly (need long sleeve more than short sleeve). Size 17
+  neck / 34 sleeve.
 
 - Any **short sleeve shirt from Criquet**,
-  [criquetshirts.com](https://criquetshirts.com), around $90. Size: medium.
+  [criquetshirts.com](https://criquetshirts.com), around $90. Size:
+  medium. Now *free shipping* on all orders with code: FALLSHIP
 
-- Some kind of short sleeve **polo shirt**, *not* all-cotton, lightweight.
-  Probably solid color. I have one from Izod that I like. Also Under
-  Armour. The kind I like are often sold as "golf performance wicking
-  something something."
+- Some kind of short sleeve **polo shirt**, *not* all-cotton,
+  lightweight. Probably solid color. I have one from Izod that I like.
+  Also Under Armour. The kind I like are often sold as "golf
+  performance wicking something something."
 
 - **Short sleeve button-front** shirt, casual, all cotton.
 
@@ -28,12 +30,12 @@ possibly daily.
   "tapering" as it goes from the bottom to the top. Possibly with a
   blunt, rectangle-type end, instead of coming to a point.
 
-- **Tie clip,** a cool, classy style, so it doesn't flop forward and
-  drag on things if I bend over. Doesn't have to be literally made of
-  a precious metal. Either a "plain" one, or something with a fun but
-  subtle motif: pattern, texture, my monogram. Cool shapes: anchor,
-  key, whale, Rod of Asclepius. Especially something that is a
-  "frieze" pattern (just do an image search for 'frieze pattern').
+- **Tie clip,** a cool, classy style, so my tie doesn't flop forward
+  and drag on things if I bend over. Doesn't have to be literally made
+  of a precious metal. Don't get the kind with a pin that pierces
+  through things. Style ideas: plain metal, fun but subtle pattern,
+  texture, my monogram, anchor, key, whale, rod of Asclepius, frieze
+  pattern (do an image search for 'frieze pattern').
 
 - New **belt**. Brown or black leather, for work. simple design
   without a lot of stitching or decoration. strap has to be 36 inches
@@ -58,20 +60,25 @@ possibly daily.
 
 - Footwear, size 10
 
-    - **Sandals**: slightly dressy, for outdoors, similar to my current
-      ones, which are from L.L. Bean. Dark leather strap. No strap on the
-      heel. The kind that go between big toe and 2nd toe, *not* the kind
-      that go all the way over the instep. See example: ![example of flip-flops I like](/birthday-party/flipflop.jpg)
+    - **Sandals**: slightly dressy, for outdoors, similar to my
+      current ones, which are from L.L. Bean. Dark leather strap. No
+      strap on the heel. The kind that go between big toe and 2nd toe,
+      *not* the kind that go all the way over the instep. See example:
+      ![example of flip-flops I like](/birthday-party/flipflop.jpg)
 
-    - **Shoes** for work/office. Dark brown leather. Slip on. Mostly
-      dressy. Could be "gift card situation" (the kind of thing that I
-      would shop for myself).
+    - **Shoes** for work/office. Dark brown leather. Slip on. Size 10.
+      Mostly dressy. Could be "gift card situation" (the kind of thing
+      that I would shop for myself).
+
+    - **Shoes,** lace up. Style: oxford, brogue, or blucher.
+      Surprisingly, it has been years since I owned a lace-up pair of
+      work shoes.
 
     - **Casual shoes** like these styles by
       [Allbirds](https://www.allbirds.com): Tree Dasher, Tree Runners,
       Tree Pipers, Tree Skippers, Canvas Pacers. Any color *except*
-      orange, yellow, purple, pink, white. Or just send me to their store
-      in our neighborhood.
+      orange, yellow, purple, pink, white. Or just send me to their
+      store in our neighborhood.
 
 
 
@@ -126,8 +133,8 @@ Same deal: these are all things that I would get a lot of use out of.
 
 - Some kind of **loop gizmo** for music. The idea is, I record one
   instrument bit, the machine plays it through a speaker, and then I
-  play something along on a different instrument. Maybe what's called a
-  "looper pedal" but I'm not sure. Got to be self-contained and as
+  play something along on a different instrument. Maybe what's called
+  a "looper pedal" but I'm not sure. Got to be self-contained and as
   simple as possible (if I have to break out my laptop each time and
   connect it, I will never use it). Maybe speaker included? Should be
   able to record several minutes if needed.
