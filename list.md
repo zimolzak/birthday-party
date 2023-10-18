@@ -2,7 +2,7 @@
 layout: page
 ---
 
-AJZ (not Alex) Wish list, as of August 2023.
+AJZ (not Alex) Wish list, as of October 2023.
 
 # High priority, clothing
 
@@ -109,7 +109,7 @@ Same deal: these are all things that I would get a lot of use out of.
     - CW Hotline from [Ham Radio
       Solutions](https://www.hamradio.solutions). This lets you sit
       anywhere and send Morse code using your radio that sits at home.
-      Probably okay with kit *or* fully assembled.
+      Probably okay with kit *or* fully assembled. $55--105.
 
     - [gigaparts.com](https://gigaparts.com) sells "Scout CPO," $50. A
       code practice oscillator is literally just a speaker that goes
