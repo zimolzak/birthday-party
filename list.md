@@ -2,7 +2,7 @@
 layout: page
 ---
 
-AJZ (not Alex) Wish list, as of October 2023.
+AJZ (not Alex) Wish list, as of October 31, 2023.
 
 # High priority, clothing
 
@@ -87,6 +87,8 @@ possibly daily.
 
 Same deal: these are all things that I would get a lot of use out of.
 
+- Nintendo Switch?? Around $300.
+
 - **Old-timey "straight key"** for Morse code. Search ebay for "navy
   flameproof" or "vintage straight key." Ideally get one that has all
   or most of the parts. (Don't buy just the knob, or a key without the
@@ -168,12 +170,17 @@ the list above.
   several people in one family share one license to talk on certain
   frequencies.
 
-- Any of the **Kindle books** on that list.
+- Any of the **Kindle books** on that list. Completely fine to get any
+  of these as a paper book, too (including used)!
 
 
 
 
 # Medium priority
+
+Many of these are very fun, but either I don't "need" them, or I would
+use them but not all that often. I would be very happy to receive any
+of them!
 
 - **Fix up bass guitar.** The middle potentiometer has always been
   weird and turns too far around. Some things seem intermittently not
@@ -203,3 +210,7 @@ the list above.
 - Book, *Clinical Research Informatics* Third Edition, edited by
   Richesson, Andrews, and Hollis. [publisher
   link](https://link.springer.com/book/10.1007/978-3-031-27173-1)
+
+- Cuisinart Cleanburn Firepit, $250.
+
+- DeWalt pressure washer, $300. Like model DWPW2100
