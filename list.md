@@ -2,17 +2,21 @@
 layout: page
 ---
 
-AJZ (not Alex) Wish list, as of October 31, 2023.
+AJZ (not Alex) Wish list, as of November 9, 2023. Go
+[here](/birthday-party/list-kid.html) for Alex list.
 
 # High priority, clothing
 
 These are things I would start using right away and keep using a lot,
 possibly daily.
 
-- **Dress shirts,** probably Brooks Brothers, generally light weight.
-  Get button-down collar. Probably mostly solid colors. I am running
-  low, surprisingly (need long sleeve more than short sleeve). Size 17
-  neck / 34 sleeve.
+- **Dress shirts** (I need long sleeve more than short sleeve)
+    - brand: Brooks Brothers, (sometimes L.L. Bean)
+    - fabric: generally light weight. (So usually anything *except* Oxford cloth. Pinpoint Oxford is sometimes OK.)
+    - style: Get button-down collar.
+    - color: mostly solid
+    - Fit: not "slim" but usually "the one that is a little looser than slim." Many call this "Regular" fit. Not "relaxed"
+    - size: 17 neck / 34 sleeve.
 
 - Any **short sleeve shirt from Criquet**,
   [criquetshirts.com](https://criquetshirts.com), around $90. Size:
@@ -88,6 +92,9 @@ possibly daily.
 Same deal: these are all things that I would get a lot of use out of.
 
 - Nintendo Switch?? Around $300.
+
+- Any battery-powered **wristwatch** with a chronograph (stopwatch)
+  built-in. Seiko or Timex are reasonable. Not fancy.
 
 - **Old-timey "straight key"** for Morse code. Search ebay for "navy
   flameproof" or "vintage straight key." Ideally get one that has all
