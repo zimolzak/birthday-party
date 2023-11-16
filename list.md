@@ -106,8 +106,8 @@ Same deal: these are all things that I would get a lot of use out of.
 
 - **Morse code electronic gizmos**
 
-    - OK, don't buy this. I got it for myself as a reward.
-      ~~K45B CW Modem from K1EL Systems~~
+    - OK, don't buy this first item. I got it for myself as a reward.
+      Look further down the list. ~~K45B CW Modem from K1EL Systems~~
 
     - MFJ-419 "CW Elmer," $170. Portable gizmo for Morse code
       practice. It interprets what you send and makes up random
