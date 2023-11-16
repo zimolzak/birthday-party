@@ -2,7 +2,7 @@
 layout: page
 ---
 
-AJZ (not Alex) Wish list, as of November 9, 2023. Go
+AJZ (not Alex) Wish list, as of November 16, 2023. Go
 [here](/birthday-party/list-kid.html) for Alex list.
 
 # High priority, clothing
@@ -106,10 +106,8 @@ Same deal: these are all things that I would get a lot of use out of.
 
 - **Morse code electronic gizmos**
 
-    - K45B CW Modem from [K1EL Systems](https://www.k1elsystems.com).
-      Type on a keyboard and out comes Morse code letters to your
-      radio. Listens to your radio and displays the Morse code that it
-      hears. No computer required. $239.
+    - OK, don't buy this. I got it for myself as a reward.
+      ~~K45B CW Modem from K1EL Systems~~
 
     - MFJ-419 "CW Elmer," $170. Portable gizmo for Morse code
       practice. It interprets what you send and makes up random
