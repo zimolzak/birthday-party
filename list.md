@@ -187,6 +187,8 @@ Many of these are very fun, but either I don't "need" them, or I would
 use them but not all that often. I would be very happy to receive any
 of them!
 
+- Gift certificate to tecovas.com or their brick and mortar store?
+
 - **Fix up bass guitar.** The middle potentiometer has always been
   weird and turns too far around. Some things seem intermittently not
   connected to the right pickups. Pay for somebody to check and repair
