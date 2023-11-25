@@ -2,7 +2,7 @@
 layout: page
 ---
 
-AJZ (not Alex) Wish list, as of November 16, 2023. Go
+AJZ (not Alex) Wish list, as of November 25, 2023. Go
 [here](/birthday-party/list-kid.html) for Alex list.
 
 # High priority, clothing
@@ -10,27 +10,17 @@ AJZ (not Alex) Wish list, as of November 16, 2023. Go
 These are things I would start using right away and keep using a lot,
 possibly daily.
 
-- **Dress shirts** (I need long sleeve more than short sleeve)
-    - brand: Brooks Brothers, (sometimes L.L. Bean)
-    - fabric: generally light weight. (So usually anything *except* Oxford cloth. Pinpoint Oxford is sometimes OK.)
-    - style: Get button-down collar.
-    - color: mostly solid
-    - Fit: not "slim" but usually "the one that is a little looser than slim." Many call this "Regular" fit. Not "relaxed"
-    - size: 17 neck / 34 sleeve.
-
 - Any **short sleeve shirt from Criquet**,
   [criquetshirts.com](https://criquetshirts.com), around $90. Size:
   medium. Now *free shipping* on all orders with code: FALLSHIP
 
 - Some kind of short sleeve **polo shirt**, *not* all-cotton,
-  lightweight. Probably solid color. I have one from Izod that I like.
-  Also Under Armour. The kind I like are often sold as "golf
+  lightweight. Probably solid color. OK brands: Izod, Under Armour, Adidas. The kind I like are often sold as "golf
   performance wicking something something."
 
 - **Short sleeve button-front** shirt, casual, all cotton.
 
-- **Necktie,** solid colors, dark generally, made of silk. I want a
-  few in the "skinny" style, like 2 inches wide, without much
+- **Necktie,** solid green, black, grey, brown. Made of silk. Get "skinny" style, like 2 inches wide, without much
   "tapering" as it goes from the bottom to the top. Possibly with a
   blunt, rectangle-type end, instead of coming to a point.
 
@@ -50,17 +40,8 @@ possibly daily.
   for wearing with shorts. Lots more colors and designs are
   acceptable.
 
-- **Jeans**, waist 34, length 32, Levi's. Color: any dark blue or
-    medium blue (not light wash):
-
-    - 501 (button fly)
-    - 505 (regular/straight)
-    - 514 (classic straight)
-    - *maybe* 541
-    - probably not 550 (relaxed)
-
-- Maybe a non-blue pair of **jeans** appropriate for casual days at
-  work? Colors like dark grey, dark olive, brown, tan/khaki.
+- Tan/khaki colored Levi 505 **jeans**, waist 34, length 30 (yes).
+  Alternate colors: dark grey, dark olive, brown.
 
 - Footwear, size 10
 
@@ -84,6 +65,8 @@ possibly daily.
       orange, yellow, purple, pink, white. Or just send me to their
       store in our neighborhood.
 
+    - Gift certificate to tecovas.com or their brick and mortar store? (Boots)
+
 
 
 
@@ -93,7 +76,7 @@ Same deal: these are all things that I would get a lot of use out of.
 
 - Nintendo Switch?? Around $300.
 
-- Any battery-powered **wristwatch** with a chronograph (stopwatch)
+- Any battery-powered **wristwatch** with hands, with a chronograph (stopwatch)
   built-in. Seiko or Timex are reasonable. Not fancy.
 
 - **Old-timey "straight key"** for Morse code. Search ebay for "navy
@@ -103,24 +86,6 @@ Same deal: these are all things that I would get a lot of use out of.
   probably okay.) These are fun gifts because it almost doesn't matter
   what kind you buy. They are all different, and they all will work
   and be interesting to try!
-
-- **Morse code electronic gizmos**
-
-    - OK, don't buy this first item. I got it for myself as a reward.
-      Look further down the list. ~~K45B CW Modem from K1EL Systems~~
-
-    - MFJ-419 "CW Elmer," $170. Portable gizmo for Morse code
-      practice. It interprets what you send and makes up random
-      letters for you to copy.
-
-    - CW Hotline from [Ham Radio
-      Solutions](https://www.hamradio.solutions). This lets you sit
-      anywhere and send Morse code using your radio that sits at home.
-      Probably okay with kit *or* fully assembled. $55--105.
-
-    - [gigaparts.com](https://gigaparts.com) sells "Scout CPO," $50. A
-      code practice oscillator is literally just a speaker that goes
-      "boop," to practice using any Morse code key.
 
 - **Single lever paddle** for Morse code.
 
@@ -138,14 +103,6 @@ Same deal: these are all things that I would get a lot of use out of.
 - [https://www.danperri.com/book](https://www.danperri.com/book): an
   interesting-looking book from a famous movie title designer
 
-- Some kind of **loop gizmo** for music. The idea is, I record one
-  instrument bit, the machine plays it through a speaker, and then I
-  play something along on a different instrument. Maybe what's called
-  a "looper pedal" but I'm not sure. Got to be self-contained and as
-  simple as possible (if I have to break out my laptop each time and
-  connect it, I will never use it). Maybe speaker included? Should be
-  able to record several minutes if needed.
-
 - **Jaguar XK8**, but not the real car, a scale model :). Preferably
   green. Possibly one of the "display" models that's die cast, like
   those made by Maisto. Or literally a Hot Wheels.
@@ -160,13 +117,6 @@ Same deal: these are all things that I would get a lot of use out of.
 All items on the Amazon list are "approved by me" and look like they
 would work, if you are not sure about buying the "right" thing from
 the list above.
-
-- A long, narrow **strip of cork** that can go on a wall and be hung
-  up with nails. Should have: some kind of frame (like aluminum),
-  about 4--6 feet long and 1--2 inch wide. Ideally with two little
-  attached eyelets for the nails to hold it to the wall. I would use
-  this for hanging up things that make me happy on our wall at home,
-  without adding tape or holes to the walls
 
 - **NanoVNA antenna analyzer.** This lets me see how well radio
   antennas are set up, especially small, temporary ones.
@@ -187,13 +137,19 @@ Many of these are very fun, but either I don't "need" them, or I would
 use them but not all that often. I would be very happy to receive any
 of them!
 
-- Gift certificate to tecovas.com or their brick and mortar store?
-
 - **Fix up bass guitar.** The middle potentiometer has always been
   weird and turns too far around. Some things seem intermittently not
   connected to the right pickups. Pay for somebody to check and repair
   (Rockin' Robin on Greenbriar in Houston is pretty close to us).
   Include: cheap soft "gig bag" for bass, probably $30--40.
+
+- Some kind of **loop gizmo** for music. The idea is, I record one
+  instrument bit, the machine plays it through a speaker, and then I
+  play something along on a different instrument. Maybe what's called
+  a "looper pedal" but I'm not sure. Got to be self-contained and as
+  simple as possible (if I have to break out my laptop each time and
+  connect it, I will never use it). Maybe speaker included? Should be
+  able to record several minutes if needed.
 
 - **QCX-mini kit**, which is a little tiny radio that you build. Get
   it for the **40m band**. $55. Yes, the kit, not the assembled
