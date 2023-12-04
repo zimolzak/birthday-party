@@ -2,7 +2,7 @@
 layout: page
 ---
 
-AJZ (not Alex) Wish list, as of November 25, 2023. Go
+AJZ (not Alex) Wish list, as of December 4, 2023. Go
 [here](/birthday-party/list-kid.html) for Alex list.
 
 # High priority, clothing
@@ -28,7 +28,7 @@ possibly daily.
   and drag on things if I bend over. Doesn't have to be literally made
   of a precious metal. Don't get the kind with a pin that pierces
   through things. Style ideas: plain metal, fun but subtle pattern,
-  texture, my monogram, anchor, key, whale, rod of Asclepius, frieze
+  texture, my monogram, anchor, key, rod of Asclepius, frieze
   pattern (do an image search for 'frieze pattern').
 
 - New **belt**. Brown or black leather, for work. simple design
@@ -40,7 +40,7 @@ possibly daily.
   for wearing with shorts. Lots more colors and designs are
   acceptable.
 
-- Tan/khaki colored Levi 505 **jeans**, waist 34, length 30 (yes).
+- Tan/khaki colored Levi 501 or 505 **jeans**, waist 34, length 30 (yes).
   Alternate colors: dark grey, dark olive, brown.
 
 - Footwear, size 10
@@ -76,14 +76,14 @@ Same deal: these are all things that I would get a lot of use out of.
 
 - Nintendo Switch?? Around $300.
 
-- Any battery-powered **wristwatch** with hands, with a chronograph (stopwatch)
+- Any battery-powered **wristwatch** with hands (not digital numbers), with a chronograph (stopwatch)
   built-in. Seiko or Timex are reasonable. Not fancy.
 
 - **Old-timey "straight key"** for Morse code. Search ebay for "navy
-  flameproof" or "vintage straight key." Ideally get one that has all
+  flameproof" or "vintage straight key." J-38 key is another classic style. Ideally get one that has all
   or most of the parts. (Don't buy just the knob, or a key without the
   knob. Key and knob without the base is okay. Without wires is
-  probably okay.) These are fun gifts because it almost doesn't matter
+  pretty much okay.) These are fun gifts because it almost doesn't matter
   what kind you buy. They are all different, and they all will work
   and be interesting to try!
 
