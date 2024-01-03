@@ -5,7 +5,7 @@ layout: page
 AJZ (not Alex) Wish list, as of January 3, 2024. Go
 [here](/birthday-party/list-kid.html) for Alex list.
 
-# High priority, clothing
+# High priority
 
 These are things I would start using right away and keep using a lot,
 possibly daily.
@@ -41,13 +41,6 @@ possibly daily.
     - Gift certificate to tecovas.com or their brick and mortar store?
       (Boots)
 
-
-
-
-# High priority, not clothing
-
-Same deal: these are all things that I would get a lot of use out of.
-
 - Any battery-powered **wristwatch** with hands (not digital numbers),
   with a chronograph (stopwatch) built-in. Seiko or Timex are
   reasonable. Not fancy.
@@ -76,8 +69,7 @@ Same deal: these are all things that I would get a lot of use out of.
 
 
 
-
-# High priority but already on Amazon list
+## High priority but already on Amazon list
 
 All items on the Amazon list are "approved by me" and look like they
 would work, if you are not sure about buying the "right" thing from
