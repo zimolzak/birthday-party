@@ -14,3 +14,8 @@ https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/test
 2. `bundle exec jekyll serve`
 
 ...and every so often `bundle update github-pages`
+
+
+# Notes
+
+- on Jan 3 2024, I had to do `bundle add webrick`

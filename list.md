@@ -2,7 +2,7 @@
 layout: page
 ---
 
-AJZ (not Alex) Wish list, as of December 4, 2023. Go
+AJZ (not Alex) Wish list, as of January 3, 2024. Go
 [here](/birthday-party/list-kid.html) for Alex list.
 
 # High priority, clothing
@@ -10,46 +10,19 @@ AJZ (not Alex) Wish list, as of December 4, 2023. Go
 These are things I would start using right away and keep using a lot,
 possibly daily.
 
-- Any **short sleeve shirt from Criquet**,
-  [criquetshirts.com](https://criquetshirts.com), around $90. Size:
-  medium. Now *free shipping* on all orders with code: FALLSHIP
-
-- Some kind of short sleeve **polo shirt**, *not* all-cotton,
-  lightweight. Probably solid color. OK brands: Izod, Under Armour, Adidas. The kind I like are often sold as "golf
-  performance wicking something something."
-
-- **Short sleeve button-front** shirt, casual, all cotton.
-
-- **Necktie,** solid green, black, grey, brown. Made of silk. Get "skinny" style, like 2 inches wide, without much
-  "tapering" as it goes from the bottom to the top. Possibly with a
-  blunt, rectangle-type end, instead of coming to a point.
+- **Necktie,** solid green, black, grey, brown. Made of silk. Get
+  "skinny" style, like 2 inches wide, without much "tapering" as it
+  goes from the bottom to the top. Possibly with a blunt,
+  rectangle-type end, instead of coming to a point.
 
 - **Tie clip,** a cool, classy style, so my tie doesn't flop forward
   and drag on things if I bend over. Doesn't have to be literally made
   of a precious metal. Don't get the kind with a pin that pierces
-  through things. Style ideas: plain metal, fun but subtle pattern,
-  texture, my monogram, anchor, key, rod of Asclepius, frieze
-  pattern (do an image search for 'frieze pattern').
-
-- New **belt**. Brown or black leather, for work. simple design
-  without a lot of stitching or decoration. strap has to be 36 inches
-  to fit correctly with enough leeway.
-
-- **Belt**, casual. Has to be **lightweight** (no heavy metal buckle,
-  no wide or thick leather). Any material for the strap is OK. Mostly
-  for wearing with shorts. Lots more colors and designs are
-  acceptable.
-
-- Tan/khaki colored Levi 501 or 505 **jeans**, waist 34, length 30 (yes).
-  Alternate colors: dark grey, dark olive, brown.
+  through things. Style ideas: fun but subtle pattern, texture, my
+  monogram, anchor, key, rod of Asclepius, frieze pattern (do an image
+  search for 'frieze pattern').
 
 - Footwear, size 10
-
-    - **Sandals**: slightly dressy, for outdoors, similar to my
-      current ones, which are from L.L. Bean. Dark leather strap. No
-      strap on the heel. The kind that go between big toe and 2nd toe,
-      *not* the kind that go all the way over the instep. See example:
-      ![example of flip-flops I like](/birthday-party/flipflop.jpg)
 
     - **Shoes** for work/office. Dark brown leather. Slip on. Size 10.
       Mostly dressy. Could be "gift card situation" (the kind of thing
@@ -65,7 +38,8 @@ possibly daily.
       orange, yellow, purple, pink, white. Or just send me to their
       store in our neighborhood.
 
-    - Gift certificate to tecovas.com or their brick and mortar store? (Boots)
+    - Gift certificate to tecovas.com or their brick and mortar store?
+      (Boots)
 
 
 
@@ -74,18 +48,17 @@ possibly daily.
 
 Same deal: these are all things that I would get a lot of use out of.
 
-- Nintendo Switch?? Around $300.
-
-- Any battery-powered **wristwatch** with hands (not digital numbers), with a chronograph (stopwatch)
-  built-in. Seiko or Timex are reasonable. Not fancy.
+- Any battery-powered **wristwatch** with hands (not digital numbers),
+  with a chronograph (stopwatch) built-in. Seiko or Timex are
+  reasonable. Not fancy.
 
 - **Old-timey "straight key"** for Morse code. Search ebay for "navy
-  flameproof" or "vintage straight key." J-38 key is another classic style. Ideally get one that has all
-  or most of the parts. (Don't buy just the knob, or a key without the
-  knob. Key and knob without the base is okay. Without wires is
-  pretty much okay.) These are fun gifts because it almost doesn't matter
-  what kind you buy. They are all different, and they all will work
-  and be interesting to try!
+  flameproof" or "vintage straight key." J-38 key is another classic
+  style. Ideally get one that has all or most of the parts. (Don't buy
+  just the knob, or a key without the knob. Key and knob without the
+  base is okay. Without wires is pretty much okay.) These are fun
+  gifts because it almost doesn't matter what kind you buy. They are
+  all different, and they all will work and be interesting to try!
 
 - **Single lever paddle** for Morse code.
 
@@ -100,14 +73,6 @@ Same deal: these are all things that I would get a lot of use out of.
     - Begali "simplex mono basic" or "simplex mono",
       [i2rtf.com](https://i2rtf.com). These are pricey.
 
-- [https://www.danperri.com/book](https://www.danperri.com/book): an
-  interesting-looking book from a famous movie title designer
-
-- **Jaguar XK8**, but not the real car, a scale model :). Preferably
-  green. Possibly one of the "display" models that's die cast, like
-  those made by Maisto. Or literally a Hot Wheels.
-
-![example of Jaguar model car](/birthday-party/jaguar.jpg)
 
 
 
@@ -137,6 +102,40 @@ Many of these are very fun, but either I don't "need" them, or I would
 use them but not all that often. I would be very happy to receive any
 of them!
 
+- **Jaguar XK8**, but not the real car, a scale model :). Preferably
+  green. Possibly one of the "display" models that's die cast, like
+  those made by Maisto. Or literally a Hot Wheels. ![example of Jaguar model car](/birthday-party/jaguar.jpg)
+
+- Nintendo Switch?? Around $300.
+
+- Any **short sleeve shirt from Criquet**,
+  [criquetshirts.com](https://criquetshirts.com), around $90. Size:
+  medium. Now *free shipping* on all orders with code: FALLSHIP
+
+- **Sandals**: slightly dressy, for outdoors, similar to my current
+  ones, which are from L.L. Bean. Dark leather strap. No strap on the
+  heel. The kind that go between big toe and 2nd toe, *not* the kind
+  that go all the way over the instep. See example: ![example of flip-flops I like](/birthday-party/flipflop.jpg)
+
+- Some kind of short sleeve **polo shirt**, *not* all-cotton,
+  lightweight. Probably solid color. OK brands: Izod, Under Armour,
+  Adidas. The kind I like are often sold as "golf performance wicking
+  something something."
+
+- **Short sleeve button-front** shirt, casual, all cotton.
+
+- New **belt**. Brown or black leather, for work. simple design
+  without a lot of stitching or decoration. strap has to be 36 inches
+  to fit correctly with enough leeway.
+
+- **Belt**, casual. Has to be **lightweight** (no heavy metal buckle,
+  no wide or thick leather). Any material for the strap is OK. Mostly
+  for wearing with shorts. Lots more colors and designs are
+  acceptable.
+
+- Tan/khaki colored Levi 501 or 505 **jeans**, waist 34, length 30 (yes).
+  Alternate colors: dark grey, dark olive, brown.
+
 - **Fix up bass guitar.** The middle potentiometer has always been
   weird and turns too far around. Some things seem intermittently not
   connected to the right pickups. Pay for somebody to check and repair
@@ -150,6 +149,9 @@ of them!
   simple as possible (if I have to break out my laptop each time and
   connect it, I will never use it). Maybe speaker included? Should be
   able to record several minutes if needed.
+
+- [https://www.danperri.com/book](https://www.danperri.com/book): an
+  interesting-looking book from a famous movie title designer
 
 - **QCX-mini kit**, which is a little tiny radio that you build. Get
   it for the **40m band**. $55. Yes, the kit, not the assembled
