@@ -142,6 +142,8 @@ of them!
   connect it, I will never use it). Maybe speaker included? Should be
   able to record several minutes if needed.
 
+- Probably too crazy of an idea, but: Banjo ukulele? Mandolin? Bass clarinet?
+
 - [https://www.danperri.com/book](https://www.danperri.com/book): an
   interesting-looking book from a famous movie title designer
 
