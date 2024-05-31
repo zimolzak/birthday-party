@@ -2,18 +2,21 @@
 layout: page
 ---
 
-AJZ (not Alex) Wish list, as of May 30, 2024. Go
+AJZ (not Alex) Wish list, as of May 31, 2024. Go
 [here](/birthday-party/list-kid.html) for Alex list.
 
 # High priority
 
 These are things I would start using right away and keep using a lot,
-possibly daily.
+possibly daily. Arranged in no particular order inside this section.
 
-- 1--2 terabyte SSD external hard drive. SanDisk Extreme PRO looks to
-  be good. Or Western Digital.
+- 1--2 terabyte **SSD external hard drive**. SanDisk Extreme PRO looks to
+  be good. Or Western Digital. Should use USB 3.0 or greater.
 
 - 3-D metal model kit like from https://www.metalearth.com
+
+- **The ARRL Antenna Book, 25th edition,** hardcover. The version that
+  comes all as one volume (not softcover, not 4-volume set). $80.
 
 - **Necktie,** solid green, black, grey, brown. Made of silk. Get
   "skinny" style, like 2 inches wide, without much "tapering" as it
@@ -80,10 +83,6 @@ All items on the Amazon list are "approved by me" and look like they
 would work, if you are not sure about buying the "right" thing from
 the list above.
 
-- **GMRS handheld radios.** Search for "UV-5G" or "UV-5R GMRS." Lets
-  several people in one family share one license to talk on certain
-  frequencies.
-
 - Any of the **Kindle books** on that list. Completely fine to get any
   of these as a paper book, too (including used)!
 
@@ -121,8 +120,8 @@ of them!
   for wearing with shorts. Lots more colors and designs are
   acceptable.
 
-- Tan/khaki colored Levi 501 or 505 **jeans**, waist 34, length 30 (yes).
-  Alternate colors: dark grey, dark olive, brown.
+- Tan/khaki colored (not blue) Levi 501 or 505 **jeans**, waist 34,
+  length 30 (yes). Alternate colors: dark grey, dark olive, brown.
 
 - **Fix up bass guitar.** The middle potentiometer has always been
   weird and turns too far around. Some things seem intermittently not
