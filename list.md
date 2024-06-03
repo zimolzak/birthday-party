@@ -15,6 +15,8 @@ possibly daily. Arranged in no particular order inside this section.
 
 - 3-D metal model kit like from https://www.metalearth.com
 
+- **Automatic can crusher** for soda cans
+
 - **The ARRL Antenna Book, 25th edition,** hardcover. The version that
   comes all as one volume (not softcover, not 4-volume set). $80.
 
