@@ -2,7 +2,7 @@
 layout: page
 ---
 
-AJZ (not Alex) Wish list, as of May 31, 2024. Go
+AJZ (not Alex) Wish list, as of June 3, 2024. Go
 [here](/birthday-party/list-kid.html) for Alex list.
 
 # High priority
