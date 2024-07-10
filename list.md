@@ -2,16 +2,13 @@
 layout: page
 ---
 
-AJZ (not Alex) Wish list, as of June 3, 2024. Go
+AJZ (not Alex) Wish list, as of July 10, 2024. Go
 [here](/birthday-party/list-kid.html) for Alex list.
 
 # High priority
 
 These are things I would start using right away and keep using a lot,
 possibly daily. Arranged in no particular order inside this section.
-
-- 1--2 terabyte **SSD external hard drive**. SanDisk Extreme PRO looks to
-  be good. Or Western Digital. Should use USB 3.0 or greater.
 
 - 3-D metal model kit like from https://www.metalearth.com
 
