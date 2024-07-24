@@ -2,7 +2,7 @@
 layout: page
 ---
 
-AJZ (not Alex) Wish list, as of July 10, 2024. Go
+AJZ (not Alex) Wish list, as of July 24, 2024. Go
 [here](/birthday-party/list-kid.html) for Alex list.
 
 # High priority
@@ -11,6 +11,9 @@ These are things I would start using right away and keep using a lot,
 possibly daily. Arranged in no particular order inside this section.
 
 - 3-D metal model kit like from https://www.metalearth.com
+
+- Trip to [Lone Star Flight Museum](https://lonestarflight.org/), or
+  if you're feeling fancy, a ride in one of their historic airplaines.
 
 - **Automatic can crusher** for soda cans
 
