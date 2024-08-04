@@ -2,7 +2,7 @@
 layout: page
 ---
 
-AJZ (not Alex) Wish list, as of July 24, 2024. Go
+AJZ (not Alex) Wish list, as of August 4, 2024. Go
 [here](/birthday-party/list-kid.html) for Alex list.
 
 # High priority
@@ -13,7 +13,7 @@ possibly daily. Arranged in no particular order inside this section.
 - 3-D metal model kit like from https://www.metalearth.com
 
 - Trip to [Lone Star Flight Museum](https://lonestarflight.org/), or
-  if you're feeling fancy, a ride in one of their historic airplaines.
+  if you're feeling fancy, a ride in one of their historic airplanes.
 
 - **Automatic can crusher** for soda cans
 
@@ -45,20 +45,20 @@ possibly daily. Arranged in no particular order inside this section.
     - **Casual shoes** like these styles by
       [Allbirds](https://www.allbirds.com): Tree Dasher, Tree Runners,
       Tree Pipers, Tree Skippers, Canvas Pacers. Any color *except*
-      orange, yellow, purple, pink, white. Or just send me to their
-      store in our neighborhood.
+      orange, yellow, purple, pink, white.
 
 - Any battery-powered **wristwatch** with hands (not digital numbers),
   with a chronograph (stopwatch) built-in. Seiko or Timex are
   reasonable. Not fancy.
 
-- **Old-timey "straight key"** for Morse code. Search ebay for "navy
+- **Old-timey "straight key"** for Morse code. Search eBay for "navy
   flameproof" or "vintage straight key." J-38 key is another classic
   style. Ideally get one that has all or most of the parts. (Don't buy
   just the knob, or a key without the knob. Key and knob without the
   base is okay. Without wires is pretty much okay.) These are fun
   gifts because it almost doesn't matter what kind you buy. They are
-  all different, and they all will work and be interesting to try!
+  all different, and they all will work (almost impossible to be
+  broken or defective) and all will be fun!
 
 - **Single lever paddle** for Morse code.
 
@@ -135,10 +135,6 @@ of them!
 
 - **Men's suit.** Could be "gift card situation" (the kind of thing
   that I would shop for myself but am not sure where)
-
-- I slightly want a **bike with electric assist motor.** *Consumer
-  Reports* has a list that I can show you. [Example
-  link](https://ebikeescape.com/flyer-l885-cargo-ebike-review/)
 
 - Book, *Clinical Research Informatics* Third Edition, edited by
   Richesson, Andrews, and Hollis. [publisher
