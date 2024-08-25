@@ -16,7 +16,6 @@ Alex wish list, as of January 3, 2024. Go
 - first aid things
 - white paper (sheets for drawing, writing)
 - 2 rolls of stickers
-- new radios for Alex (FRS walkie-talkies)
 
 
 # Ideas from Andy, for Alex gifts
