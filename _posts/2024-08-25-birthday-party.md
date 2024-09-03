@@ -13,3 +13,4 @@ note: there are no bathrooms at the park.
 You can use this link below for some gift ideas!!
 
 [link to wish list](https://zimolzak.github.io/birthday-party/main/2024/08/25/wish-list.html)
+R.S.V.P.:check in later for R.S.V.P.'s!!
