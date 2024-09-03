@@ -27,7 +27,7 @@ Houston, TX 77030
 
 # Contact
 
-*R.s.v.p.* (with number of kids, and total number of people) by text or e-mail to:
+*R.s.v.p.* (with number of kids and number of adults) by e-mail or text to:
 
 Elizabeth Moulton  
 [elizabethamoulton@gmail.com](mailto:elizabethamoulton@gmail.com)
@@ -35,8 +35,7 @@ Elizabeth Moulton
 For my cell phone number, you should have received a printed invitation
 with my number. I'm in area code 614. **I will text
 you if it's cancelled due to rain.**
-
-
+Likely rain date Saturday September 21st
 
 
 # Map
@@ -58,7 +57,6 @@ of Roberts Elementary.
 - Latitude and longitude: 29.702, -95.414
 
 
-
 # The park has
 
 - swings
@@ -66,12 +64,14 @@ of Roberts Elementary.
 - jungle gyms
 - small field to play
 - 2-hour free street parking
-- ***No restrooms!***
-- a few benches and tables
+-  a few benches and tables
+-  ***No restrooms!***
+
 
 # We bring
 
-- einsteins bagels and fruit
+- Einstein bagels  
+- fruit
 - beverages
 - coffee for adults
 
