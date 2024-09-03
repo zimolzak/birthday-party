@@ -23,7 +23,7 @@ Elizabeth Moulton
 For my cell phone number, you should have received a printed invitation
 with my number. I'm in area code 614. **I will text
 you if it's cancelled due to rain.**
-Likely rain date Saturday September 21st
+Rain date likely Saturday Sept. 28th
 
 # The park has
 
