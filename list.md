@@ -28,11 +28,11 @@ possibly daily. Arranged in no particular order inside this section.
     Preferably made of silk, and with embroidered logos, but those
     aren't requirements. Logos of any of the following schools:
     - Spartan helmet for MSU.
-    - Block S letter for MSU: <img style="vertical-align:middle" src="ties/msu.jpg" alt="MSU tie" width="100"/>
-    - The shield logo for Washington University in St. Louis: <img style="vertical-align:middle" src="ties/wu.jpg" alt="WUStL tie" width="100"/>
+    - Block S letter for MSU: <img style="vertical-align:middle" src="/birthday-party/ties/msu.jpg" alt="MSU tie" width="100"/>
+    - The shield logo for Washington University in St. Louis: <img style="vertical-align:middle" src="/birthday-party/ties/wu.jpg" alt="WUStL tie" width="100"/>
     - Block H letter for Harvard (sometimes inside a shield, technically their athletic logo).
-    - Plain "Veritas" shield for Harvard: <img style="vertical-align:middle" src="ties/hu-b1.jpg" alt="Harvard bowtie" width="100"/> <img style="vertical-align:middle" src="ties/hu-b2.jpg" alt="Harvard bowtie, striped" width="100"/> <img style="vertical-align:middle" src="ties/hu-n1.jpg" alt="Harvard tie, striped" width="100"/> <img style="vertical-align:middle" src="ties/hu-n2.jpg" alt="Harvard tie" width="100"/>
-    - Shield with lion rampant for Harvard medical: <img style="vertical-align:middle" src="ties/hm-b.jpg" alt="HMS bowtie" width="100"/> <img style="vertical-align:middle" src="ties/hm-n.jpg" alt="HMS tie" width="100"/>
+    - Plain "Veritas" shield for Harvard: <img style="vertical-align:middle" src="/birthday-party/ties/hu-b1.jpg" alt="Harvard bowtie" width="100"/> <img style="vertical-align:middle" src="/birthday-party/ties/hu-b2.jpg" alt="Harvard bowtie, striped" width="100"/> <img style="vertical-align:middle" src="/birthday-party/ties/hu-n1.jpg" alt="Harvard tie, striped" width="100"/> <img style="vertical-align:middle" src="/birthday-party/ties/hu-n2.jpg" alt="Harvard tie" width="100"/>
+    - Shield with lion rampant for Harvard medical: <img style="vertical-align:middle" src="/birthday-party/ties/hm-b.jpg" alt="HMS bowtie" width="100"/> <img style="vertical-align:middle" src="/birthday-party/ties/hm-n.jpg" alt="HMS tie" width="100"/>
 
 - **Necktie,** solid green, black, grey, brown. Made of silk. Get
   "skinny" style, like 2 inches wide, without much "tapering" as it
