@@ -2,7 +2,7 @@
 layout: page
 ---
 
-AJZ (not Alex) Wish list, as of August 4, 2024. Go
+AJZ (not Alex) Wish list, as of October 11, 2024. Go
 [here](/birthday-party/list-kid.html) for Alex list.
 
 # High priority
@@ -18,7 +18,23 @@ possibly daily. Arranged in no particular order inside this section.
 - **Automatic can crusher** for soda cans
 
 - **The ARRL Antenna Book, 25th edition,** hardcover. The version that
-  comes all as one volume (not softcover, not 4-volume set). $80.
+  comes all as one volume (not softcover, not 4-volume set). $80. Main
+  ARRL store link [here](https://home.arrl.org/action/Shop/Store).
+  Direct [link to Antenna
+  Book](https://home.arrl.org/action/Store/Product-Details/productId/2012451093).
+  For some reason hardcover no longer available?
+
+- **Necktie or bowtie with repeating pattern of small logos**.
+    Preferably made of silk, and with embroidered logos, but those
+    aren't requirements. Logos of any of the following schools:
+    - Spartan helmet for MSU
+    - Block S letter for MSU <img style="vertical-align:middle" src="ties/msu.jpg" alt="tie" width="150"/>
+    - The shield logo for Washington University in St. Louis   <img src="ties/wu.jpg" alt="tie" width="150"/>
+    - Block H letter for Harvard (sometimes inside a shield, technically their athletic logo)
+    - Plain "Veritas" shield for Harvard  <img src="ties/hu-b1.jpg" alt="tie" width="150"/> <img src="ties/hu-b2.jpg" alt="tie" width="150"/> <img src="ties/hu-n1.jpg" alt="tie" width="150"/> <img src="ties/hu-n2.jpg" alt="tie" width="150"/>
+    - Shield with lion rampant for Harvard medical <img src="ties/hm-b.jpg" alt="tie" width="150"/> <img src="ties/hm-n.jpg" alt="tie" width="150"/>
+
+
 
 - **Necktie,** solid green, black, grey, brown. Made of silk. Get
   "skinny" style, like 2 inches wide, without much "tapering" as it
