@@ -28,13 +28,11 @@ possibly daily. Arranged in no particular order inside this section.
     Preferably made of silk, and with embroidered logos, but those
     aren't requirements. Logos of any of the following schools:
     - Spartan helmet for MSU
-    - Block S letter for MSU <img style="vertical-align:middle" src="ties/msu.jpg" alt="tie" width="150"/>
-    - The shield logo for Washington University in St. Louis   <img src="ties/wu.jpg" alt="tie" width="150"/>
+    - Block S letter for MSU <img style="vertical-align:middle" src="ties/msu.jpg" alt="tie" width="100"/>
+    - The shield logo for Washington University in St. Louis <img style="vertical-align:middle" src="ties/wu.jpg" alt="tie" width="100"/>
     - Block H letter for Harvard (sometimes inside a shield, technically their athletic logo)
-    - Plain "Veritas" shield for Harvard  <img src="ties/hu-b1.jpg" alt="tie" width="150"/> <img src="ties/hu-b2.jpg" alt="tie" width="150"/> <img src="ties/hu-n1.jpg" alt="tie" width="150"/> <img src="ties/hu-n2.jpg" alt="tie" width="150"/>
-    - Shield with lion rampant for Harvard medical <img src="ties/hm-b.jpg" alt="tie" width="150"/> <img src="ties/hm-n.jpg" alt="tie" width="150"/>
-
-
+    - Plain "Veritas" shield for Harvard <img style="vertical-align:middle" src="ties/hu-b1.jpg" alt="tie" width="100"/> <img style="vertical-align:middle" src="ties/hu-b2.jpg" alt="tie" width="100"/> <img style="vertical-align:middle" src="ties/hu-n1.jpg" alt="tie" width="100"/> <img style="vertical-align:middle" src="ties/hu-n2.jpg" alt="tie" width="100"/>
+    - Shield with lion rampant for Harvard medical <img style="vertical-align:middle" src="ties/hm-b.jpg" alt="tie" width="100"/> <img style="vertical-align:middle" src="ties/hm-n.jpg" alt="tie" width="100"/>
 
 - **Necktie,** solid green, black, grey, brown. Made of silk. Get
   "skinny" style, like 2 inches wide, without much "tapering" as it
