@@ -65,6 +65,8 @@ possibly daily. Arranged in no particular order inside this section.
   with a chronograph (stopwatch) built-in. Seiko or Timex are
   reasonable. Not fancy.
 
+- The book **When I Grow Up** by Weird Al Yankovic.
+
 - **Old-timey "straight key"** for Morse code. Search eBay for "navy
   flameproof" or "vintage straight key." J-38 key is another classic
   style. Ideally get one that has all or most of the parts. (Don't buy
@@ -155,3 +157,5 @@ of them!
   link](https://link.springer.com/book/10.1007/978-3-031-27173-1)
 
 - DeWalt pressure washer, $300. Like model DWPW2100
+
+- Avapow or nexpow car starter
