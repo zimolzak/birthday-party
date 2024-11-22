@@ -30,11 +30,9 @@ time. They do say to arrive early, though. The address where we went
 is [5445 West Loop South.](https://osm.org/go/TuQSud1z7--?way=194663285)
 
 
-## Map
 
-Here is the map!
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-95.45995295047761%2C29.722248508537685%2C-95.45521616935731%2C29.724722231892795&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=18/29.723485/-95.457585">View Larger Map</a></small>
+
 
 Wait for it....
 
