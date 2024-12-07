@@ -2,7 +2,7 @@
 layout: page
 ---
 
-AJZ (not Alex) Wish list, as of October 11, 2024. Go
+AJZ (not Alex) Wish list, as of December 7, 2024. Go
 [here](/birthday-party/list-kid.html) for Alex list.
 
 # High priority
@@ -10,12 +10,13 @@ AJZ (not Alex) Wish list, as of October 11, 2024. Go
 These are things I would start using right away and keep using a lot,
 possibly daily. Arranged in no particular order inside this section.
 
-- 3-D metal model kit like from https://www.metalearth.com
+- Photo developing of several rolls of 35mm film! I think [Indie Film
+  Lab](https://www.indiefilmlab.com/) looks good. I would get *Process
+  & Scan,* C41, 35mm, Noritsu scanner, resolution L, change to
+  Uncorrected, file type JPG. This is $12 per roll.
 
 - Trip to [Lone Star Flight Museum](https://lonestarflight.org/), or
   if you're feeling fancy, a ride in one of their historic airplanes.
-
-- **Automatic can crusher** for soda cans
 
 - **The ARRL Antenna Book, 25th edition,** hardcover. The version that
   comes all as one volume (not softcover, not 4-volume set). $80. Main
@@ -61,12 +62,6 @@ possibly daily. Arranged in no particular order inside this section.
       Tree Pipers, Tree Skippers, Canvas Pacers. Any color *except*
       orange, yellow, purple, pink, white.
 
-- Any battery-powered **wristwatch** with hands (not digital numbers),
-  with a chronograph (stopwatch) built-in. Seiko or Timex are
-  reasonable. Not fancy.
-
-- The book **When I Grow Up** by Weird Al Yankovic.
-
 - **Old-timey "straight key"** for Morse code. Search eBay for "navy
   flameproof" or "vintage straight key." J-38 key is another classic
   style. Ideally get one that has all or most of the parts. (Don't buy
@@ -84,7 +79,8 @@ possibly daily. Arranged in no particular order inside this section.
     - Bencher ST-1. $150. [vibroplex.com](https://vibroplex.com). This
       is supposedly a lovely one to use.
     
-    - Vibrokeyer Standard. $180. [vibroplex.com](https://vibroplex.com)
+    - Vibrokeyer Standard. $180.
+      [vibroplex.com](https://vibroplex.com)
     
     - Begali "simplex mono basic" or "simplex mono",
       [i2rtf.com](https://i2rtf.com). These are pricey.
@@ -120,7 +116,8 @@ of them!
 - **Sandals**: slightly dressy, for outdoors, similar to my current
   ones, which are from L.L. Bean. Dark leather strap. No strap on the
   heel. The kind that go between big toe and 2nd toe, *not* the kind
-  that go all the way over the instep. See example: ![example of flip-flops I like](/birthday-party/flipflop.jpg)
+  that go all the way over the instep. See example: ![example of
+  flip-flops I like](/birthday-party/flipflop.jpg)
 
 - Some kind of short sleeve **polo shirt**, *not* all-cotton,
   lightweight. Probably solid color. OK brands: Izod, Under Armour,
@@ -147,7 +144,8 @@ of them!
   (Rockin' Robin on Greenbriar in Houston is pretty close to us).
   Include: cheap soft "gig bag" for bass, probably $30--40.
 
-- Probably too crazy of an idea, but: Banjo ukulele? Mandolin? Bass clarinet?
+- Probably too crazy of an idea, but: Banjo ukulele? Mandolin? Bass
+  clarinet?
 
 - **Men's suit.** Could be "gift card situation" (the kind of thing
   that I would shop for myself but am not sure where)
@@ -157,5 +155,3 @@ of them!
   link](https://link.springer.com/book/10.1007/978-3-031-27173-1)
 
 - DeWalt pressure washer, $300. Like model DWPW2100
-
-- Avapow or nexpow car starter
