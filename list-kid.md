@@ -2,20 +2,34 @@
 layout: page
 ---
 
-Alex wish list, as of January 3, 2024. Go
+Alex wish list, **now updated, December 10, 2024.** Go
 [here](/birthday-party/list.html) for his dad's list.
+
+
+
 
 # List written by Alex
 
+Alex has an [extensive list](https://www.thingstogetme.com/alex-wish)
+of gift ideas that he put together himself. However, *be aware:* not
+all of the items here are parent-approved. Alex knows this. He can add
+things on his own and tries to keep it to things that are safe, but he
+might not always think before adding. *Best to check with parents
+first.*
+
+Note: you can click "Reserve" if you are planning to get something
+from that list, so he doesn't get 2 of the same present.
+
+## Also, the following
+
 - dimmable flashlight
 - timer (for wall) with remote and multiple timers
-- new backpack
 - new *Bad Kitty* books (by Nick Bruel)---please consult grownups for which books he already owns.
 - 1, 2, or 3 folders
-- kid-safe wireless Bluetooth headphones
 - first aid things
-- white paper (sheets for drawing, writing)
 - 2 rolls of stickers
+
+
 
 
 # Ideas from Andy, for Alex gifts
@@ -40,3 +54,12 @@ Alex wish list, as of January 3, 2024. Go
 - a countdown timer to put on the wall, with remote control
 
 - wallet with a cute design on it
+
+
+
+
+# Not so much any more
+
+- ~~new backpack~~
+- ~~white paper (sheets for drawing, writing)~~
+- ~~kid-safe wireless Bluetooth headphones~~
