@@ -2,8 +2,12 @@
 layout: page
 ---
 
-AJZ (not Alex) Wish list, as of December 7, 2024. Go
-[here](/birthday-party/list-kid.html) for Alex list.
+AJZ (not Alex) Wish list, as of December 7, 2024.
+
+- Go [here](/birthday-party/list-kid.html) for Alex list.
+- Go [here](/birthday-party/list-eam.html) for E.A.M. list.
+
+
 
 # High priority
 
