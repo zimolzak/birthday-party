@@ -7,6 +7,9 @@ E.A.M. wish list, as of December 10, 2024.
 - Go [here](/birthday-party/list-kid.html) for Alex list.
 - Go [here](/birthday-party/list.html) for A.J.Z. list.
 
+
+
+
 # Main list
 
 - iPhone magnetic charger
