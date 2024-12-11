@@ -25,3 +25,4 @@ E.A.M. wish list, as of December 10, 2024.
 - Some kind of cake or cupcake carrier/holder:
     - PrepWorks Collapsible Cupcake Carrier, Gray
     - Prepworks by Progressive Collapsible Cupcake and Cake carier, 24 cupcakes, 2 layer...
+- Vitamix stainless steel container, 48 oz.
