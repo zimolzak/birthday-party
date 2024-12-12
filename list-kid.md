@@ -2,10 +2,10 @@
 layout: page
 ---
 
-Alex wish list, **now updated, December 10, 2024.** Go
+Alex wish list, **now updated, December 12, 2024.** Go
 [here](/birthday-party/list.html) for his dad's list.
 
-# Important notes from parents
+# Important notes from parents (what not to buy)
 
 - Please don't buy any wheeled vehicles (cars, tricycles, karts,
   *etc.*) for a kid to ride on. We have a lot already! Alex is also
@@ -14,6 +14,23 @@ Alex wish list, **now updated, December 10, 2024.** Go
 - Please don't buy anything with a laser in it.
 
 - *Best to check with parents first* before buying most gifts.
+
+- Here are some Lego Creator sets that Alex **already owns.**
+    - 31058 dinos
+    - 31147 camera
+    - 31157 peacock
+    - 31146 truck
+    - 31134 space shuttle
+    - 31128 sea life
+    - 31137 dogs
+    - 31127 race cars
+
+- Other Lego sets that he owns:
+    - 60312 police car
+    - 41960 dots
+    - 42163 bulldozer
+    - 60287 tractor
+    - 41805 dots
 
 
 
@@ -29,6 +46,10 @@ might not always think before adding items.
 Note: you can click "Reserve" on the Things to Get Me site if you are
 planning to buy something from that list, so he doesn't get 2 of the
 same present.
+
+Here is Alex's [Lego online wish
+list](https://www.lego.com/shared-wishlist/3935faa2-7dca-4bf1-a282-8dca3f7cc09f).
+**Disregard** the camera, because he already has that one.
 
 ## Ideas from Alex, 2023
 
