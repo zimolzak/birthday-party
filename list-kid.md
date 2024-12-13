@@ -2,7 +2,9 @@
 layout: page
 ---
 
-Alex wish list, **now updated, December 12, 2024.** Go
+# Alex Wish List
+
+**Now updated, December 13, 2024.** Go
 [here](/birthday-party/list.html) for his dad's list.
 
 # Important notes from parents (what not to buy)
@@ -31,23 +33,23 @@ Alex wish list, **now updated, December 12, 2024.** Go
     - 42163 bulldozer
     - 60287 tractor
     - 41805 dots
+    - 43231 Disney *Wish* movie
 
 
 
 
-# List written by Alex
+# Lists written by Alex
 
-Alex has an [extensive list](https://www.thingstogetme.com/alex-wish)
-of gift ideas that he put together himself. However, *be aware:* not
-all of the items here are parent-approved. Alex knows this. He can add
-things on his own and tries to keep it to things that are safe, but he
-might not always think before adding items.
+- Alex has an [extensive
+list](https://www.thingstogetme.com/alex-wish) of gift ideas that he
+put together himself. However, *be aware:* not all of the items here
+are parent-approved. Alex knows this. He can add things on his own and
+tries to keep it to things that are safe, but he might not always
+think before adding items. (Note: you can click "Reserve" on the
+Things to Get Me site if you are planning to buy something from that
+list, so he doesn't get 2 of the same present.)
 
-Note: you can click "Reserve" on the Things to Get Me site if you are
-planning to buy something from that list, so he doesn't get 2 of the
-same present.
-
-Here is Alex's [Lego online wish
+- Here is Alex's [Lego online wish
 list](https://www.lego.com/shared-wishlist/3935faa2-7dca-4bf1-a282-8dca3f7cc09f).
 **Disregard** the camera, because he already has that one.
 

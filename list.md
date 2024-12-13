@@ -2,7 +2,9 @@
 layout: page
 ---
 
-AJZ (not Alex) Wish list, as of December 7, 2024.
+# AJZ (not Alex) Wish List
+
+As of December 13, 2024.
 
 - Go [here](/birthday-party/list-kid.html) for Alex list.
 - Go [here](/birthday-party/list-eam.html) for E.A.M. list.
@@ -14,12 +16,12 @@ AJZ (not Alex) Wish list, as of December 7, 2024.
 These are things I would start using right away and keep using a lot,
 possibly daily. Arranged in no particular order inside this section.
 
-- Photo developing of several rolls of 35mm film! I think [Indie Film
+- **Photo developing** of several rolls of 35mm film! I think [Indie Film
   Lab](https://www.indiefilmlab.com/) looks good. I would get *Process
   & Scan,* C41, 35mm, Noritsu scanner, resolution L, change to
   Uncorrected, file type JPG. This is $12 per roll.
 
-- Trip to [Lone Star Flight Museum](https://lonestarflight.org/), or
+- **Trip to [Lone Star Flight Museum](https://lonestarflight.org/),** or
   if you're feeling fancy, a ride in one of their historic airplanes.
 
 - **The ARRL Antenna Book, 25th edition,** hardcover. The version that
@@ -32,8 +34,8 @@ possibly daily. Arranged in no particular order inside this section.
 - **Necktie or bowtie with repeating pattern of small logos**.
     Preferably made of silk, and with embroidered logos, but those
     aren't requirements. Logos of any of the following schools:
-    - Spartan helmet for MSU.
-    - Block S letter for MSU: <img style="vertical-align:middle" src="/birthday-party/ties/msu.jpg" alt="MSU tie" width="100"/>
+    - Spartan helmet for MSU: <img style="vertical-align:middle" src="/birthday-party/ties/msu.jpg" alt="MSU tie" width="100"/>
+    - Block S letter for MSU.
     - The shield logo for Washington University in St. Louis: <img style="vertical-align:middle" src="/birthday-party/ties/wu.jpg" alt="WUStL tie" width="100"/>
     - Block H letter for Harvard (sometimes inside a shield, technically their athletic logo).
     - Plain "Veritas" shield for Harvard: <img style="vertical-align:middle" src="/birthday-party/ties/hu-b1.jpg" alt="Harvard bowtie" width="100"/> <img style="vertical-align:middle" src="/birthday-party/ties/hu-b2.jpg" alt="Harvard bowtie, striped" width="100"/> <img style="vertical-align:middle" src="/birthday-party/ties/hu-n1.jpg" alt="Harvard tie, striped" width="100"/> <img style="vertical-align:middle" src="/birthday-party/ties/hu-n2.jpg" alt="Harvard tie" width="100"/>
@@ -66,6 +68,12 @@ possibly daily. Arranged in no particular order inside this section.
       Tree Pipers, Tree Skippers, Canvas Pacers. Any color *except*
       orange, yellow, purple, pink, white.
 
+- **Semi-automatic "bug" Morse code key.** This is probably the Morse
+  code thing that I most want to try out next. Such as these Vibroplex
+  models: Original Standard $250, Original Standard Upgraded $270,
+  Blue Racer Standard $240, [vibroplex.com](https://vibroplex.com).
+  These can be found used, too.
+
 - **Old-timey "straight key"** for Morse code. Search eBay for "navy
   flameproof" or "vintage straight key." J-38 key is another classic
   style. Ideally get one that has all or most of the parts. (Don't buy
@@ -89,21 +97,6 @@ possibly daily. Arranged in no particular order inside this section.
     - Begali "simplex mono basic" or "simplex mono",
       [i2rtf.com](https://i2rtf.com). These are pricey.
 
-- **Semi-automatic "bug" Morse code key.** Such as vibroplex original
-  standard. $220. [vibroplex.com](https://vibroplex.com)
-
-
-
-
-## High priority but already on Amazon list
-
-All items on the Amazon list are "approved by me" and look like they
-would work, if you are not sure about buying the "right" thing from
-the list above.
-
-- Any of the **Kindle books** on that list. Completely fine to get any
-  of these as a paper book, too (including used)!
-
 
 
 
@@ -113,9 +106,16 @@ Many of these are very fun, but either I don't "need" them, or I would
 use them but not all that often. I would be very happy to receive any
 of them!
 
+- All items on the [Amazon
+list](https://www.amazon.com/hz/wishlist/ls/1O7VAQKRPMITU) are
+"approved by me" and look like they would work, if you are not sure
+about buying the "right" thing from the list above. Any of the
+**Kindle books** on that list. Completely fine to get any of these as
+a paper book, too (including used)!
+
 - Any **short sleeve shirt from Criquet**,
   [criquetshirts.com](https://criquetshirts.com), around $90. Size:
-  medium. Now *free shipping* on all orders with code: FALLSHIP
+  medium.
 
 - **Sandals**: slightly dressy, for outdoors, similar to my current
   ones, which are from L.L. Bean. Dark leather strap. No strap on the
@@ -128,10 +128,11 @@ of them!
   Adidas. The kind I like are often sold as "golf performance wicking
   something something."
 
-- **Short sleeve button-front** shirt, casual, all cotton.
+- **Short sleeve button-front** shirt, casual, all cotton. Usually
+    size large.
 
-- New **belt**. Brown or black leather, for work. simple design
-  without a lot of stitching or decoration. strap has to be 36 inches
+- New **belt**. Brown or black leather, for work. Simple design
+  without a lot of stitching or decoration. Strap has to be 36 inches
   to fit correctly with enough leeway.
 
 - **Belt**, casual. Has to be **lightweight** (no heavy metal buckle,
@@ -155,7 +156,7 @@ of them!
   that I would shop for myself but am not sure where)
 
 - Book, *Clinical Research Informatics* Third Edition, edited by
-  Richesson, Andrews, and Hollis. [publisher
+  Richesson, Andrews, and Hollis. [Publisher
   link](https://link.springer.com/book/10.1007/978-3-031-27173-1)
 
-- DeWalt pressure washer, $300. Like model DWPW2100
+- DeWalt **pressure washer,** $300. Like model DWPW2100
