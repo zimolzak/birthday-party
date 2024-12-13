@@ -16,13 +16,15 @@ As of December 13, 2024.
 These are things I would start using right away and keep using a lot,
 possibly daily. Arranged in no particular order inside this section.
 
-- **Photo developing** of several rolls of 35mm film! I think [Indie Film
-  Lab](https://www.indiefilmlab.com/) looks good. I would get *Process
-  & Scan,* C41, 35mm, Noritsu scanner, resolution L, change to
-  Uncorrected, file type JPG. This is $12 per roll.
+- **Photo developing** of several rolls of 35mm film! I think [Indie
+  Film Lab](https://www.indiefilmlab.com/) looks good. I would get
+  *Process & Scan,* C41, 35mm, Noritsu scanner, resolution L, change
+  to Uncorrected, file type JPG. This is $12 per roll. (I have 6 rolls
+  to do.)
 
-- **Trip to [Lone Star Flight Museum](https://lonestarflight.org/),** or
-  if you're feeling fancy, a ride in one of their historic airplanes.
+- **Trip to [Lone Star Flight Museum](https://lonestarflight.org/),**
+  or if you're feeling fancy, a ride in one of their historic
+  airplanes.
 
 - **The ARRL Antenna Book, 25th edition,** hardcover. The version that
   comes all as one volume (not softcover, not 4-volume set). $80. Main
