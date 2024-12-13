@@ -2,7 +2,9 @@
 layout: page
 ---
 
-E.A.M. wish list, as of December 10, 2024.
+# E.A.M. Wish List
+
+As of December 10, 2024.
 
 - Go [here](/birthday-party/list-kid.html) for Alex list.
 - Go [here](/birthday-party/list.html) for A.J.Z. list.
@@ -24,5 +26,5 @@ E.A.M. wish list, as of December 10, 2024.
     - *Milk Street: Cook What You Have*
 - Some kind of cake or cupcake carrier/holder:
     - PrepWorks Collapsible Cupcake Carrier, Gray
-    - Prepworks by Progressive Collapsible Cupcake and Cake carier, 24 cupcakes, 2 layer...
+    - Prepworks by Progressive Collapsible Cupcake and Cake carrier, 24 cupcakes, 2 layer...
 - Vitamix stainless steel container, 48 oz.
