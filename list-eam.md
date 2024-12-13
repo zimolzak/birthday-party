@@ -4,7 +4,7 @@ layout: page
 
 # E.A.M. Wish List
 
-As of December 10, 2024.
+As of December 13, 2024.
 
 - Go [here](/birthday-party/list-kid.html) for Alex list.
 - Go [here](/birthday-party/list.html) for A.J.Z. list.
