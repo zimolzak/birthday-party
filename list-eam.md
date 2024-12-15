@@ -18,8 +18,8 @@ As of December 13, 2024.
 - Twin bed 100% cotton sheets
 - Regular grownup size pillows for sleeping
 - Williams-Sonoma kitchen towels, cotton. Ideally solid dark blue. Gray is also OK.
-- Large size ThermiPaq clay heating pack
-- All-Clad stainless sauce pan, 2 quart (D3 Stainless 3-ply Bonded Cookware, Sauce Pan with lid, 2 quart, $160)
+- ~~Large size ThermiPaq clay heating pack~~
+- ~~All-Clad stainless sauce pan, 2 quart (D3 Stainless 3-ply Bonded Cookware, Sauce Pan with lid, 2 quart, $160)~~
 - A cookbook (any of the following)
     - *Milk Street Vegetables*
     - *Milk Street Cookish*
@@ -27,4 +27,4 @@ As of December 13, 2024.
 - Some kind of cake or cupcake carrier/holder:
     - PrepWorks Collapsible Cupcake Carrier, Gray
     - Prepworks by Progressive Collapsible Cupcake and Cake carrier, 24 cupcakes, 2 layer...
-- Vitamix stainless steel container, 48 oz.
+- ~~Vitamix stainless steel container, 48 oz.~~
