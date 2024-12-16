@@ -14,12 +14,12 @@ As of December 13, 2024.
 
 # Main list
 
-- iPhone magnetic charger
+- ~~iPhone magnetic charger~~
 - Twin bed 100% cotton sheets
 - Regular grownup size pillows for sleeping
 - Williams-Sonoma kitchen towels, cotton. Ideally solid dark blue. Gray is also OK.
 - ~~Large size ThermiPaq clay heating pack~~
-- ~~All-Clad stainless sauce pan, 2 quart (D3 Stainless 3-ply Bonded Cookware, Sauce Pan with lid, 2 quart, $160)~~
+- All-Clad stainless sauce pan, 2 quart (D3 Stainless 3-ply Bonded Cookware, Sauce Pan with lid, 2 quart, $160)
 - A cookbook (any of the following)
     - *Milk Street Vegetables*
     - *Milk Street Cookish*
