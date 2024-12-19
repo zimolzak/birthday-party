@@ -23,7 +23,7 @@ As of December 19, 2024.
     - *Milk Street Cookish*
     - *Milk Street: Cook What You Have*
 - Pillow cases: navy blue or white
-- Spirit of the North - PlayStation 5 Standard Edition (video game about a fox)
+- Spirit of the North - PlayStation 5 (Probably "Enhanced Edition," but Standard Edition may be OK)
 
 
 
