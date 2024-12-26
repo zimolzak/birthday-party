@@ -51,11 +51,10 @@ list, so he doesn't get 2 of the same present.)
 
 - Here is Alex's [Lego online wish
 list](https://www.lego.com/shared-wishlist/3935faa2-7dca-4bf1-a282-8dca3f7cc09f).
-**Disregard** the camera, because he already has that one.
+  
 
 ## Ideas from Alex, 2023
 
-- dimmable flashlight
 - timer (for wall) with remote and multiple timers
 - new *Bad Kitty* books (by Nick Bruel)---please consult grownups for which books he already owns.
 - 1, 2, or 3 folders
@@ -86,13 +85,8 @@ list](https://www.lego.com/shared-wishlist/3935faa2-7dca-4bf1-a282-8dca3f7cc09f)
 
 - a countdown timer to put on the wall, with remote control
 
-- wallet with a cute design on it
+  
 
 
 
 
-# Not so much any more
-
-- ~~new backpack~~
-- ~~white paper (sheets for drawing, writing)~~
-- ~~kid-safe wireless Bluetooth headphones~~
