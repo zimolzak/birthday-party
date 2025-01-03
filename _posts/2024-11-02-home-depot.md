@@ -28,21 +28,3 @@ events. So far, it looks like the next ones are:
 It is free to register! You might not even need to register ahead of
 time. They do say to arrive early, though. The address where we went
 is [5445 West Loop South.](https://osm.org/go/TuQSud1z7--?way=194663285)
-
-
-
-
-
-
-Wait for it....
-
-
-
-## Dino
-
-Yes!
-
-<iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
-<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
-
-The end.
