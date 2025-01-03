@@ -16,6 +16,3 @@ Here are Alex's drawings of Super Chicken and Shelly the Egg.
 Source: *The Highlights Book of Things to Do.* Highlights Press, 2020.
 p. 115.
 
-
-<iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
-<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
