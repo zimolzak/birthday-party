@@ -9,7 +9,3 @@ Here is Alex's drawing of a shoebill. (Please note that it is eating
 fish. There are "alive fish" and "dead fish.")
 
 ![drawing of a shoebill bird](/birthday-party/shoebill.jpg)
-
-
-<iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
-<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
