@@ -15,8 +15,6 @@ As of December 19, 2024.
 # Main list
 
 - Twin bed 100% cotton sheets
-- Regular grownup-size pillows for sleeping
-- Williams-Sonoma kitchen towels, cotton. Ideally solid dark blue. Gray is also OK.
 - All-Clad stainless sauce pan, 2 quart (D3 Stainless 3-ply Bonded Cookware, Sauce Pan with lid, 2 quart, $160)
 - A cookbook (any of the following)
     - *Milk Street Vegetables*
@@ -24,6 +22,8 @@ As of December 19, 2024.
     - *Milk Street: Cook What You Have*
 - Pillow cases: navy blue or white
 - Spirit of the North - PlayStation 5 (Probably "Enhanced Edition," but Standard Edition may be OK)
+- Non toxic yoga mat
+  
 
 
 
