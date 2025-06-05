@@ -4,7 +4,7 @@ layout: page
 
 # AJZ (not Alex) Wish List
 
-As of December 13, 2024.
+As of June 5, 2025
 
 - Go [here](/birthday-party/list-kid.html) for Alex list.
 - Go [here](/birthday-party/list-eam.html) for E.A.M. list.
@@ -76,15 +76,6 @@ possibly daily. Arranged in no particular order inside this section.
   Blue Racer Standard $240, [vibroplex.com](https://vibroplex.com).
   These can be found used, too.
 
-- **Old-timey "straight key"** for Morse code. Search eBay for "navy
-  flameproof" or "vintage straight key." J-38 key is another classic
-  style. Ideally get one that has all or most of the parts. (Don't buy
-  just the knob, or a key without the knob. Key and knob without the
-  base is okay. Without wires is pretty much okay.) These are fun
-  gifts because it almost doesn't matter what kind you buy. They are
-  all different, and they all will work (almost impossible to be
-  broken or defective) and all will be fun!
-
 - **Single lever paddle** for Morse code.
 
     - search [gigaparts.com](https://www.gigaparts.com) for "single
@@ -99,6 +90,16 @@ possibly daily. Arranged in no particular order inside this section.
     - Begali "simplex mono basic" or "simplex mono",
       [i2rtf.com](https://i2rtf.com). These are pricey.
 
+- Some kind of short sleeve **polo shirt**, *not* all-cotton,
+  lightweight. Probably solid color. OK brands: Izod, Under Armour,
+  Adidas. The kind I like are often sold as "golf performance wicking
+  something something."
+
+- **Short sleeve button-front** shirt, casual, all cotton. Usually
+    size large.
+
+
+
 
 
 
@@ -107,6 +108,15 @@ possibly daily. Arranged in no particular order inside this section.
 Many of these are very fun, but either I don't "need" them, or I would
 use them but not all that often. I would be very happy to receive any
 of them!
+
+- **Old-timey "straight key"** for Morse code. Search eBay for "navy
+  flameproof" or "vintage straight key." J-38 key is another classic
+  style. Ideally get one that has all or most of the parts. (Don't buy
+  just the knob, or a key without the knob. Key and knob without the
+  base is okay. Without wires is pretty much okay.) These are fun
+  gifts because it almost doesn't matter what kind you buy. They are
+  all different, and they all will work (almost impossible to be
+  broken or defective) and all will be fun!
 
 - All items on the [Amazon
 list](https://www.amazon.com/hz/wishlist/ls/1O7VAQKRPMITU) are
@@ -119,20 +129,6 @@ a paper book, too (including used)!
   [criquetshirts.com](https://criquetshirts.com), around $90. Size:
   medium.
 
-- **Sandals**: slightly dressy, for outdoors, similar to my current
-  ones, which are from L.L. Bean. Dark leather strap. No strap on the
-  heel. The kind that go between big toe and 2nd toe, *not* the kind
-  that go all the way over the instep. See example: ![example of
-  flip-flops I like](/birthday-party/flipflop.jpg)
-
-- Some kind of short sleeve **polo shirt**, *not* all-cotton,
-  lightweight. Probably solid color. OK brands: Izod, Under Armour,
-  Adidas. The kind I like are often sold as "golf performance wicking
-  something something."
-
-- **Short sleeve button-front** shirt, casual, all cotton. Usually
-    size large.
-
 - New **belt**. Brown or black leather, for work. Simple design
   without a lot of stitching or decoration. Strap has to be 36 inches
   to fit correctly with enough leeway.
@@ -142,23 +138,10 @@ a paper book, too (including used)!
   for wearing with shorts. Lots more colors and designs are
   acceptable.
 
-- Tan/khaki colored (not blue) Levi 501 or 505 **jeans**, waist 34,
-  length 30 (yes). Alternate colors: dark grey, dark olive, brown.
-
-- **Fix up bass guitar.** The middle potentiometer has always been
-  weird and turns too far around. Some things seem intermittently not
-  connected to the right pickups. Pay for somebody to check and repair
-  (Rockin' Robin on Greenbriar in Houston is pretty close to us).
-  Include: cheap soft "gig bag" for bass, probably $30--40.
-
 - Probably too crazy of an idea, but: Banjo ukulele? Mandolin? Bass
   clarinet?
 
 - **Men's suit.** Could be "gift card situation" (the kind of thing
   that I would shop for myself but am not sure where)
-
-- Book, *Clinical Research Informatics* Third Edition, edited by
-  Richesson, Andrews, and Hollis. [Publisher
-  link](https://link.springer.com/book/10.1007/978-3-031-27173-1)
 
 - DeWalt **pressure washer,** $300. Like model DWPW2100
