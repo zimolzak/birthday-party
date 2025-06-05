@@ -26,12 +26,21 @@ possibly daily. Arranged in no particular order inside this section.
   or if you're feeling fancy, a ride in one of their historic
   airplanes.
 
-- **The ARRL Antenna Book, 25th edition,** hardcover. The version that
-  comes all as one volume (not softcover, not 4-volume set). $80. Main
-  ARRL store link [here](https://home.arrl.org/action/Shop/Store).
-  Direct [link to Antenna
-  Book](https://home.arrl.org/action/Store/Product-Details/productId/2012451093).
-  For some reason hardcover no longer available?
+- **Fountain pen.** Get one with a "converter" or "large capacity." Nib size = Stub 1.1 or 1.5 (kinda want 1.5). Brands I do *not* have but would be interested to try: Monteverde, Sheaffer, Kaweco. Brand I have but I like because it holds a lot: Twsbi (just don't get the mint green colored body).
+
+- **Ink** for fountain pen. I know I like the brand called Sailor. Get
+    something "dark enough" that is not green or pure black. 20 mL is
+    a reasonable size. Avoid inks with stuff like sparkles mixed in.
+
+- Cotton T-shirt, size large, with **school logo or name** of places
+  I've attended. *See neckties below* for which schools. Keep it
+  simple, such as: just one big MSU spartan helmet logo in white on a
+  green shirt, or block letters "MICHIGAN STATE" in green on black,
+  *etc.*
+
+- **Short sleeve button-front** shirt, casual, all cotton. Usually
+    size large. Especially Brooks Brothers regular fit (blue label)
+    with button-down collar.
 
 - **Necktie or bowtie with repeating pattern of small logos**.
     Preferably made of silk, and with embroidered logos, but those
@@ -42,6 +51,15 @@ possibly daily. Arranged in no particular order inside this section.
     - Block H letter for Harvard (sometimes inside a shield, technically their athletic logo).
     - Plain "Veritas" shield for Harvard: <img style="vertical-align:middle" src="/birthday-party/ties/hu-b1.jpg" alt="Harvard bowtie" width="100"/> <img style="vertical-align:middle" src="/birthday-party/ties/hu-b2.jpg" alt="Harvard bowtie, striped" width="100"/> <img style="vertical-align:middle" src="/birthday-party/ties/hu-n1.jpg" alt="Harvard tie, striped" width="100"/> <img style="vertical-align:middle" src="/birthday-party/ties/hu-n2.jpg" alt="Harvard tie" width="100"/>
     - Shield with lion rampant for Harvard medical: <img style="vertical-align:middle" src="/birthday-party/ties/hm-b.jpg" alt="HMS bowtie" width="100"/> <img style="vertical-align:middle" src="/birthday-party/ties/hm-n.jpg" alt="HMS tie" width="100"/>
+    - Mizzou
+    - Saint Louis University
+
+- **The ARRL Antenna Book, 25th edition,** hardcover. The version that
+  comes all as one volume (not softcover, not 4-volume set). $80. Main
+  ARRL store link [here](https://home.arrl.org/action/Shop/Store).
+  Direct [link to Antenna
+  Book](https://home.arrl.org/action/Store/Product-Details/productId/2012451093).
+  For some reason hardcover no longer available?
 
 - **Necktie,** solid green, black, grey, brown. Made of silk. Get
   "skinny" style, like 2 inches wide, without much "tapering" as it
@@ -95,9 +113,6 @@ possibly daily. Arranged in no particular order inside this section.
   Adidas. The kind I like are often sold as "golf performance wicking
   something something."
 
-- **Short sleeve button-front** shirt, casual, all cotton. Usually
-    size large.
-
 
 
 
@@ -108,6 +123,10 @@ possibly daily. Arranged in no particular order inside this section.
 Many of these are very fun, but either I don't "need" them, or I would
 use them but not all that often. I would be very happy to receive any
 of them!
+
+- Video games for PS5
+    - Gran Turismo 7
+    - MLB The Show 25
 
 - **Old-timey "straight key"** for Morse code. Search eBay for "navy
   flameproof" or "vintage straight key." J-38 key is another classic
