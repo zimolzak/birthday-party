@@ -81,7 +81,7 @@ list](https://www.lego.com/shared-wishlist/3935faa2-7dca-4bf1-a282-8dca3f7cc09f)
 
 - [This](https://www.squishable.com/mm5/merchant.mvc?Screen=PROD&Product_Code=mini_plague_doctor_7)
     cute creature from squishable.com, which Alex thinks looks like an
-    owl, and which he refers to as "Hootsy."
+    owl, and which he refers to as "Hootsy." Either the mini size ($29) or the micro/keychain size ($18).
 
 - a countdown timer to put on the wall, with remote control
 
