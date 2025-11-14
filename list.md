@@ -4,7 +4,7 @@ layout: page
 
 # AJZ (not Alex) Wish List
 
-As of June 5, 2025
+As of November 14, 2025
 
 - Go [here](/birthday-party/list-kid.html) for Alex list.
 - Go [here](/birthday-party/list-eam.html) for E.A.M. list.
@@ -26,21 +26,11 @@ possibly daily. Arranged in no particular order inside this section.
   or if you're feeling fancy, a ride in one of their historic
   airplanes.
 
-- **Fountain pen.** Get one with a "converter" or "large capacity." Nib size = Stub 1.1 or 1.5 (kinda want 1.5). Brands I do *not* have but would be interested to try: Monteverde, Sheaffer, Kaweco. Brand I have but I like because it holds a lot: Twsbi (just don't get the mint green colored body).
-
-- **Ink** for fountain pen. I know I like the brand called Sailor. Get
-    something "dark enough" that is not green or pure black. 20 mL is
-    a reasonable size. Avoid inks with stuff like sparkles mixed in.
-
 - Cotton T-shirt, size large, with **school logo or name** of places
   I've attended. *See neckties below* for which schools. Keep it
   simple, such as: just one big MSU spartan helmet logo in white on a
   green shirt, or block letters "MICHIGAN STATE" in green on black,
   *etc.*
-
-- **Short sleeve button-front** shirt, casual, all cotton. Usually
-    size large. Especially Brooks Brothers regular fit (blue label)
-    with button-down collar.
 
 - **Necktie or bowtie with repeating pattern of small logos**.
     Preferably made of silk, and with embroidered logos, but those
@@ -73,49 +63,6 @@ possibly daily. Arranged in no particular order inside this section.
   monogram, anchor, key, rod of Asclepius, frieze pattern (do an image
   search for 'frieze pattern').
 
-- Footwear, size 10
-
-    - **Shoes** for work/office. Dark brown leather. Slip on. Size 10.
-      Mostly dressy. Could be "gift card situation" (the kind of thing
-      that I would shop for myself).
-
-    - **Shoes,** lace up. Style: oxford, brogue, or blucher.
-      Surprisingly, it has been years since I owned a lace-up pair of
-      dress shoes.
-
-    - **Casual shoes** like these styles by
-      [Allbirds](https://www.allbirds.com): Tree Dasher, Tree Runners,
-      Tree Pipers, Tree Skippers, Canvas Pacers. Any color *except*
-      orange, yellow, purple, pink, white.
-
-- **Semi-automatic "bug" Morse code key.** This is probably the Morse
-  code thing that I most want to try out next. Such as these Vibroplex
-  models: Original Standard $250, Original Standard Upgraded $270,
-  Blue Racer Standard $240, [vibroplex.com](https://vibroplex.com).
-  These can be found used, too.
-
-- **Single lever paddle** for Morse code.
-
-    - search [gigaparts.com](https://www.gigaparts.com) for "single
-      paddle", about $43.
-    
-    - Bencher ST-1. $150. [vibroplex.com](https://vibroplex.com). This
-      is supposedly a lovely one to use.
-    
-    - Vibrokeyer Standard. $180.
-      [vibroplex.com](https://vibroplex.com)
-    
-    - Begali "simplex mono basic" or "simplex mono",
-      [i2rtf.com](https://i2rtf.com). These are pricey.
-
-- Some kind of short sleeve **polo shirt**, *not* all-cotton,
-  lightweight. Probably solid color. OK brands: Izod, Under Armour,
-  Adidas. The kind I like are often sold as "golf performance wicking
-  something something."
-
-
-
-
 
 
 # Medium priority
@@ -123,6 +70,21 @@ possibly daily. Arranged in no particular order inside this section.
 Many of these are very fun, but either I don't "need" them, or I would
 use them but not all that often. I would be very happy to receive any
 of them!
+
+- **Fountain pen.** (I have kind of a lot now, but I always like
+    others.) Get one with a "converter" or "large capacity." Nib size
+    = Stub 1.1 or 1.5 (kinda want 1.5). Brands I do *not* have but
+    would be interested to try: Monteverde, Sheaffer, Kaweco. Brand I
+    have but I like because it holds a lot: Twsbi (just don't get the
+    mint green colored body).
+
+- **Ink** for fountain pen. I know I like the brand called Sailor. Get
+    something "dark enough" that is not green or pure black. 20 mL is
+    a reasonable size. Avoid inks with stuff like sparkles mixed in.
+
+- **Short sleeve button-front** shirt, casual, all cotton. Usually
+    size large. Especially Brooks Brothers regular fit (blue label)
+    with button-down collar.
 
 - Video games for PS5
     - Gran Turismo 7
@@ -163,4 +125,45 @@ a paper book, too (including used)!
 - **Men's suit.** Could be "gift card situation" (the kind of thing
   that I would shop for myself but am not sure where)
 
-- DeWalt **pressure washer,** $300. Like model DWPW2100
+- DeWalt **pressure washer,** $300. Like model DWPW2100. Yeah, I kinda
+  still would use this.
+
+- Footwear, size 10
+
+    - **Shoes** for work/office. Dark brown leather. Slip on. Size 10.
+      Mostly dressy. Could be "gift card situation" (the kind of thing
+      that I would shop for myself).
+
+    - **Shoes,** lace up. Style: oxford, brogue, or blucher.
+      Surprisingly, it has been years since I owned a lace-up pair of
+      dress shoes.
+
+    - **Casual shoes** like these styles by
+      [Allbirds](https://www.allbirds.com): Tree Dasher, Tree Runners,
+      Tree Pipers, Tree Skippers, Canvas Pacers. Any color *except*
+      orange, yellow, purple, pink, white.
+
+- **Semi-automatic "bug" Morse code key.** This is probably the Morse
+  code thing that I most want to try out next. Such as these Vibroplex
+  models: Original Standard $250, Original Standard Upgraded $270,
+  Blue Racer Standard $240, [vibroplex.com](https://vibroplex.com).
+  These can be found used, too.
+
+- **Single lever paddle** for Morse code.
+
+    - search [gigaparts.com](https://www.gigaparts.com) for "single
+      paddle", about $43.
+
+    - Bencher ST-1. $150. [vibroplex.com](https://vibroplex.com). This
+      is supposedly a lovely one to use.
+
+    - Vibrokeyer Standard. $180.
+      [vibroplex.com](https://vibroplex.com)
+
+    - Begali "simplex mono basic" or "simplex mono",
+      [i2rtf.com](https://i2rtf.com). These are pricey.
+
+- Some kind of short sleeve **polo shirt**, *not* all-cotton,
+  lightweight. Probably solid color. OK brands: Izod, Under Armour,
+  Adidas. The kind I like are often sold as "golf performance wicking
+  something something."
