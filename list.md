@@ -14,13 +14,34 @@ As of November 14, 2025
 # High priority
 
 These are things I would start using right away and keep using a lot,
-possibly daily. Arranged in no particular order inside this section.
+possibly daily.
 
-- **Photo developing** of several rolls of 35mm film! I think [Indie
-  Film Lab](https://www.indiefilmlab.com/) looks good. I would get
-  *Process & Scan,* C41, 35mm, Noritsu scanner, resolution L, change
-  to Uncorrected, file type JPG. This is $12 per roll. (I have 6 rolls
-  to do.)
+## Nerd
+
+- A new **antenna** for my ham radio. About $90--100. I don't yet know
+  exactly what happened to the old one, but it doesn't work right any
+  more. The old one was a **MFJ-2010** off-center-fed dipole (OCFD)
+  for 40, 20, 10, and 6 meters. Worked great for years. I think I
+  would love another one. Of course, I am also looking for an end-fed
+  half wave (EFHW). Mostly I want to be on the bands that I listed
+  above (40 20 10 6), but if you get an EFHW, I would be interested in
+  80 meters, too.
+
+- **Merriam-Webster's** Collegiate Dictionary twelfth edition.
+  Available November 18! Yeah, again, seriously. I want this
+  particular dictionary and edition. It's going to delight me.
+
+- **Air compressor.** Yes, I want to blast out certain drainage lines,
+  and also it can hook to a rapid can crusher maybe? Kind of want to
+  inflate tires occasionally. I can give you a list of several
+  recommended ones, or just like buy one that is for regular,
+  non-professional people and not gigantic capacity or pressure.
+
+- **Photo developing** of several (ten?) rolls of 35mm film! I think
+  [Indie Film Lab](https://www.indiefilmlab.com/) looks good. I would
+  get *Process & Scan,* C41, 35mm, Noritsu scanner, resolution L,
+  change to Uncorrected, file type JPG. This is $12 per roll. (I have
+  6 rolls to do.)
 
 - **Trip to [Lone Star Flight Museum](https://lonestarflight.org/),**
   or if you're feeling fancy, a ride in one of their historic
@@ -30,7 +51,16 @@ possibly daily. Arranged in no particular order inside this section.
   I've attended. *See neckties below* for which schools. Keep it
   simple, such as: just one big MSU spartan helmet logo in white on a
   green shirt, or block letters "MICHIGAN STATE" in green on black,
-  *etc.*
+  *etc.* Background colors: grey, black, blue, green, red.
+
+- **The ARRL Antenna Book, 25th edition,** hardcover. The version that
+  comes all as one volume (not softcover, not 4-volume set). $80. Main
+  ARRL store link [here](https://home.arrl.org/action/Shop/Store).
+  Direct [link to Antenna
+  Book](https://home.arrl.org/action/Store/Product-Details/productId/2012451093).
+  For some reason hardcover no longer available?
+
+## Clothes
 
 - **Necktie or bowtie with repeating pattern of small logos**.
     Preferably made of silk, and with embroidered logos, but those
@@ -43,13 +73,6 @@ possibly daily. Arranged in no particular order inside this section.
     - Shield with lion rampant for Harvard medical: <img style="vertical-align:middle" src="/birthday-party/ties/hm-b.jpg" alt="HMS bowtie" width="100"/> <img style="vertical-align:middle" src="/birthday-party/ties/hm-n.jpg" alt="HMS tie" width="100"/>
     - Mizzou
     - Saint Louis University
-
-- **The ARRL Antenna Book, 25th edition,** hardcover. The version that
-  comes all as one volume (not softcover, not 4-volume set). $80. Main
-  ARRL store link [here](https://home.arrl.org/action/Shop/Store).
-  Direct [link to Antenna
-  Book](https://home.arrl.org/action/Store/Product-Details/productId/2012451093).
-  For some reason hardcover no longer available?
 
 - **Necktie,** solid green, black, grey, brown. Made of silk. Get
   "skinny" style, like 2 inches wide, without much "tapering" as it
@@ -72,23 +95,25 @@ use them but not all that often. I would be very happy to receive any
 of them!
 
 - **Fountain pen.** (I have kind of a lot now, but I always like
-    others.) Get one with a "converter" or "large capacity." Nib size
-    = Stub 1.1 or 1.5 (kinda want 1.5). Brands I do *not* have but
-    would be interested to try: Monteverde, Sheaffer, Kaweco. Brand I
-    have but I like because it holds a lot: Twsbi (just don't get the
-    mint green colored body).
+  others.) Get one with a "converter" or "large capacity." Nib size =
+  Stub 1.1 or 1.5 (kinda want 1.5). Brands I do *not* have but would
+  be interested to try: Monteverde, Sheaffer, Kaweco. Brand I have but
+  I like because it holds a lot: Twsbi (just don't get the mint green
+  colored body).
 
 - **Ink** for fountain pen. I know I like the brand called Sailor. Get
-    something "dark enough" that is not green or pure black. 20 mL is
-    a reasonable size. Avoid inks with stuff like sparkles mixed in.
+  something "dark enough" that is not green or pure black. 20 mL is a
+  reasonable size. Avoid inks with stuff like sparkles mixed in.
 
 - **Short sleeve button-front** shirt, casual, all cotton. Usually
-    size large. Especially Brooks Brothers regular fit (blue label)
-    with button-down collar.
+  size large. Especially Brooks Brothers regular fit (blue label) with
+  button-down collar.
 
 - Video games for PS5
     - Gran Turismo 7
     - MLB The Show 25
+    - Halo: Campaign Evolved
+    - Indiana Jones and the Great Circle
 
 - **Old-timey "straight key"** for Morse code. Search eBay for "navy
   flameproof" or "vintage straight key." J-38 key is another classic
@@ -100,11 +125,11 @@ of them!
   broken or defective) and all will be fun!
 
 - All items on the [Amazon
-list](https://www.amazon.com/hz/wishlist/ls/1O7VAQKRPMITU) are
-"approved by me" and look like they would work, if you are not sure
-about buying the "right" thing from the list above. Any of the
-**Kindle books** on that list. Completely fine to get any of these as
-a paper book, too (including used)!
+  list](https://www.amazon.com/hz/wishlist/ls/1O7VAQKRPMITU) are
+  "approved by me" and look like they would work, if you are not sure
+  about buying the "right" thing from the list above. Any of the
+  **Kindle books** on that list. Completely fine to get any of these
+  as a paper book, too (including used)!
 
 - Any **short sleeve shirt from Criquet**,
   [criquetshirts.com](https://criquetshirts.com), around $90. Size:
