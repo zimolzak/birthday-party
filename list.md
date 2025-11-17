@@ -62,6 +62,8 @@ possibly daily.
 
 ## Clothes
 
+- **Wallet.** Some type of wallet that doesn't fold and is a little thinner than the one I have now. Maybe made of fabric or something other than leather. Should have at least 3 slots (a few cards, a few other cards, and cash folded in half). More slots are OK but no more than 6, I guess. These are sometimes sold as "card holder" type wallets. Bifold may be OK if skinny enough, but no trifold. Most colors are OK. (black, brown, tan, grey, tan: in solid or pattern. Or even fun designs like that Simpsons one I used to have.)
+
 - **Necktie or bowtie with repeating pattern of small logos**.
     Preferably made of silk, and with embroidered logos, but those
     aren't requirements. Logos of any of the following schools:
