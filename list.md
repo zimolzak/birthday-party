@@ -4,7 +4,7 @@ layout: page
 
 # AJZ (not Alex) Wish List
 
-As of November 14, 2025
+As of November 18, 2025
 
 - Go [here](/birthday-party/list-kid.html) for Alex list.
 - Go [here](/birthday-party/list-eam.html) for E.A.M. list.
@@ -16,9 +16,26 @@ As of November 14, 2025
 These are things I would start using right away and keep using a lot,
 possibly daily.
 
+## Books
+
+Go to your local indie bookstore or something! It's not necessary to buy from Amazon, but that's okay, too. I slightly prefer print edition to an e-reader edition.
+
+- **Merriam-Webster's** Collegiate Dictionary twelfth edition.
+  Available November 18! Yeah, again, seriously. I want this
+  particular dictionary and edition. It's going to delight me.
+
+- Tim Berners Lee: *This Is for Everyone.*
+
+- R.\ F.\ Kuang: *Katabasis.*
+
+- Christine Wenc: *Funny Because It's True: How the Onion Created
+  Modern News Satire.*
+
+
+
 ## Nerd
 
-- A new **antenna** for my ham radio. About $90--100. I don't yet know
+- [x] A new antenna for my ham radio. About $90--100. I don't yet know
   exactly what happened to the old one, but it doesn't work right any
   more. The old one was a **MFJ-2010** off-center-fed dipole (OCFD)
   for 40, 20, 10, and 6 meters. Worked great for years. I think I
@@ -26,10 +43,6 @@ possibly daily.
   half wave (EFHW). Mostly I want to be on the bands that I listed
   above (40 20 10 6), but if you get an EFHW, I would be interested in
   80 meters, too.
-
-- **Merriam-Webster's** Collegiate Dictionary twelfth edition.
-  Available November 18! Yeah, again, seriously. I want this
-  particular dictionary and edition. It's going to delight me.
 
 - **Air compressor.** Yes, I want to blast out certain drainage lines,
   and also it can hook to a rapid can crusher maybe? Kind of want to
@@ -60,9 +73,17 @@ possibly daily.
   Book](https://home.arrl.org/action/Store/Product-Details/productId/2012451093).
   For some reason hardcover no longer available?
 
+- Wireless doorbell that has *volume adjustment!*
+
+- Very long tree trimmer. Either a manual type (with a saw and shears, plus a rope that you pull), or battery-powered saw cutter.
+
+
+
 ## Clothes
 
 - **Wallet.** Some type of wallet that doesn't fold and is a little thinner than the one I have now. Maybe made of fabric or something other than leather. Should have at least 3 slots (a few cards, a few other cards, and cash folded in half). More slots are OK but no more than 6, I guess. These are sometimes sold as "card holder" type wallets. Bifold may be OK if skinny enough, but no trifold. Most colors are OK. (black, brown, tan, grey, tan: in solid or pattern. Or even fun designs like that Simpsons one I used to have.)
+
+- A new **"clickabelt."** Belt made by "Slidebelts." Something like a brown leather belt. The one I've had for a while is getting worn. Should be at least 36 inch strap. Often they are sold with extra-long straps, and you cut them to length.
 
 - **Necktie or bowtie with repeating pattern of small logos**.
     Preferably made of silk, and with embroidered logos, but those
@@ -96,20 +117,25 @@ Many of these are very fun, but either I don't "need" them, or I would
 use them but not all that often. I would be very happy to receive any
 of them!
 
-- **Fountain pen.** (I have kind of a lot now, but I always like
-  others.) Get one with a "converter" or "large capacity." Nib size =
-  Stub 1.1 or 1.5 (kinda want 1.5). Brands I do *not* have but would
-  be interested to try: Monteverde, Sheaffer, Kaweco. Brand I have but
-  I like because it holds a lot: Twsbi (just don't get the mint green
-  colored body).
-
-- **Ink** for fountain pen. I know I like the brand called Sailor. Get
-  something "dark enough" that is not green or pure black. 20 mL is a
-  reasonable size. Avoid inks with stuff like sparkles mixed in.
+## Clothes
 
 - **Short sleeve button-front** shirt, casual, all cotton. Usually
   size large. Especially Brooks Brothers regular fit (blue label) with
   button-down collar.
+
+- Any **short sleeve shirt from Criquet**,
+  [criquetshirts.com](https://criquetshirts.com), around $90. Size:
+  medium.
+
+- **Men's suit.** Could be "gift card situation" (the kind of thing
+  that I would shop for myself but am not sure where)
+
+- Some kind of short sleeve **polo shirt**, *not* all-cotton,
+  lightweight. Probably solid color. OK brands: Izod, Under Armour,
+  Adidas. The kind I like are often sold as "golf performance wicking
+  something something."
+
+## Other
 
 - Video games for PS5
     - Gran Turismo 7
@@ -133,42 +159,11 @@ of them!
   **Kindle books** on that list. Completely fine to get any of these
   as a paper book, too (including used)!
 
-- Any **short sleeve shirt from Criquet**,
-  [criquetshirts.com](https://criquetshirts.com), around $90. Size:
-  medium.
-
-- New **belt**. Brown or black leather, for work. Simple design
-  without a lot of stitching or decoration. Strap has to be 36 inches
-  to fit correctly with enough leeway.
-
-- **Belt**, casual. Has to be **lightweight** (no heavy metal buckle,
-  no wide or thick leather). Any material for the strap is OK. Mostly
-  for wearing with shorts. Lots more colors and designs are
-  acceptable.
-
 - Probably too crazy of an idea, but: Banjo ukulele? Mandolin? Bass
   clarinet?
 
-- **Men's suit.** Could be "gift card situation" (the kind of thing
-  that I would shop for myself but am not sure where)
-
 - DeWalt **pressure washer,** $300. Like model DWPW2100. Yeah, I kinda
   still would use this.
-
-- Footwear, size 10
-
-    - **Shoes** for work/office. Dark brown leather. Slip on. Size 10.
-      Mostly dressy. Could be "gift card situation" (the kind of thing
-      that I would shop for myself).
-
-    - **Shoes,** lace up. Style: oxford, brogue, or blucher.
-      Surprisingly, it has been years since I owned a lace-up pair of
-      dress shoes.
-
-    - **Casual shoes** like these styles by
-      [Allbirds](https://www.allbirds.com): Tree Dasher, Tree Runners,
-      Tree Pipers, Tree Skippers, Canvas Pacers. Any color *except*
-      orange, yellow, purple, pink, white.
 
 - **Semi-automatic "bug" Morse code key.** This is probably the Morse
   code thing that I most want to try out next. Such as these Vibroplex
@@ -189,8 +184,3 @@ of them!
 
     - Begali "simplex mono basic" or "simplex mono",
       [i2rtf.com](https://i2rtf.com). These are pricey.
-
-- Some kind of short sleeve **polo shirt**, *not* all-cotton,
-  lightweight. Probably solid color. OK brands: Izod, Under Armour,
-  Adidas. The kind I like are often sold as "golf performance wicking
-  something something."
