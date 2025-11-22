@@ -18,7 +18,9 @@ possibly daily.
 
 ## Books
 
-Go to your local indie bookstore or something! It's not necessary to buy from Amazon, but that's okay, too. I slightly prefer print edition to an e-reader edition.
+Go to your local indie bookstore or something! It's not necessary to
+buy from Amazon, but that's okay, too. I slightly prefer print edition
+to an e-reader edition.
 
 - **Merriam-Webster's** Collegiate Dictionary twelfth edition.
   Available November 18! Yeah, again, seriously. I want this
@@ -66,24 +68,37 @@ Go to your local indie bookstore or something! It's not necessary to buy from Am
   green shirt, or block letters "MICHIGAN STATE" in green on black,
   *etc.* Background colors: grey, black, blue, green, red.
 
-- **The ARRL Antenna Book, 25th edition,** hardcover. The version that
-  comes all as one volume (not softcover, not 4-volume set). $80. Main
-  ARRL store link [here](https://home.arrl.org/action/Shop/Store).
-  Direct [link to Antenna
+- [x] **The ARRL Antenna Book, 25th edition,** hardcover. The version
+  that comes all as one volume (not softcover, not 4-volume set). $80.
+  Main ARRL store link
+  [here](https://home.arrl.org/action/Shop/Store). Direct [link to
+  Antenna
   Book](https://home.arrl.org/action/Store/Product-Details/productId/2012451093).
   For some reason hardcover no longer available?
 
 - Wireless doorbell that has *volume adjustment!*
 
-- Very long tree trimmer. Either a manual type (with a saw and shears, plus a rope that you pull), or battery-powered saw cutter.
+- Very long tree trimmer. Either a manual type (with a saw and shears,
+  plus a rope that you pull), or battery-powered saw cutter.
 
 
 
 ## Clothes
 
-- **Wallet.** Some type of wallet that doesn't fold and is a little thinner than the one I have now. Maybe made of fabric or something other than leather. Should have at least 3 slots (a few cards, a few other cards, and cash folded in half). More slots are OK but no more than 6, I guess. These are sometimes sold as "card holder" type wallets. Bifold may be OK if skinny enough, but no trifold. Most colors are OK. (black, brown, tan, grey, tan: in solid or pattern. Or even fun designs like that Simpsons one I used to have.)
+- **Wallet.** Some type of wallet that doesn't fold and is a little
+    thinner than the one I have now. Maybe made of fabric or something
+    other than leather. Should have at least 3 slots (a few cards, a
+    few other cards, and cash folded in half). More slots are OK but
+    no more than 6, I guess. These are sometimes sold as "card holder"
+    type wallets. Bifold may be OK if skinny enough, but no trifold.
+    Most colors are OK. (black, brown, tan, grey, tan: in solid or
+    pattern. Or even fun designs like that Simpsons one I used to
+    have.)
 
-- A new **"clickabelt."** Belt made by "Slidebelts." Something like a brown leather belt. The one I've had for a while is getting worn. Should be at least 36 inch strap. Often they are sold with extra-long straps, and you cut them to length.
+- A new **"clickabelt."** Belt made by "Slidebelts." Something like a
+  brown leather belt. The one I've had for a while is getting worn.
+  Should be at least 36 inch strap. Often they are sold with
+  extra-long straps, and you cut them to length.
 
 - **Necktie or bowtie with repeating pattern of small logos**.
     Preferably made of silk, and with embroidered logos, but those
