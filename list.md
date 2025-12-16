@@ -4,7 +4,7 @@ layout: page
 
 # AJZ (not Alex) Wish List
 
-As of November 18, 2025
+As of December 16, 2025
 
 - Go [here](/birthday-party/list-kid.html) for Alex list.
 - Go [here](/birthday-party/list-eam.html) for E.A.M. list.
@@ -28,23 +28,12 @@ to an e-reader edition.
 
 - Tim Berners Lee: *This Is for Everyone.*
 
-- R.\ F.\ Kuang: *Katabasis.*
-
 - Christine Wenc: *Funny Because It's True: How the Onion Created
   Modern News Satire.*
 
 
 
 ## Nerd
-
-- [x] A new antenna for my ham radio. About $90--100. I don't yet know
-  exactly what happened to the old one, but it doesn't work right any
-  more. The old one was a **MFJ-2010** off-center-fed dipole (OCFD)
-  for 40, 20, 10, and 6 meters. Worked great for years. I think I
-  would love another one. Of course, I am also looking for an end-fed
-  half wave (EFHW). Mostly I want to be on the bands that I listed
-  above (40 20 10 6), but if you get an EFHW, I would be interested in
-  80 meters, too.
 
 - **Air compressor.** Yes, I want to blast out certain drainage lines,
   and also it can hook to a rapid can crusher maybe? Kind of want to
@@ -68,18 +57,10 @@ to an e-reader edition.
   green shirt, or block letters "MICHIGAN STATE" in green on black,
   *etc.* Background colors: grey, black, blue, green, red.
 
-- [x] **The ARRL Antenna Book, 25th edition,** hardcover. The version
-  that comes all as one volume (not softcover, not 4-volume set). $80.
-  Main ARRL store link
-  [here](https://home.arrl.org/action/Shop/Store). Direct [link to
-  Antenna
-  Book](https://home.arrl.org/action/Store/Product-Details/productId/2012451093).
-  For some reason hardcover no longer available?
-
 - Wireless doorbell that has *volume adjustment!*
 
 - Very long tree trimmer. Either a manual type (with a saw and shears,
-  plus a rope that you pull), or battery-powered saw cutter.
+  plus a rope that you pull), or battery-powered saw-type cutter.
 
 
 
@@ -159,13 +140,12 @@ of them!
     - Indiana Jones and the Great Circle
 
 - **Old-timey "straight key"** for Morse code. Search eBay for "navy
-  flameproof" or "vintage straight key." J-38 key is another classic
-  style. Ideally get one that has all or most of the parts. (Don't buy
-  just the knob, or a key without the knob. Key and knob without the
-  base is okay. Without wires is pretty much okay.) These are fun
-  gifts because it almost doesn't matter what kind you buy. They are
-  all different, and they all will work (almost impossible to be
-  broken or defective) and all will be fun!
+  flameproof" or "vintage straight key." Ideally get one that has all
+  or most of the parts. (Don't buy just the knob, or a key without the
+  knob. Key and knob without the base is okay. Without wires is pretty
+  much okay.) These are fun gifts because it almost doesn't matter
+  what kind you buy. They are all different, and they all will work
+  (almost impossible to be broken or defective) and all will be fun!
 
 - All items on the [Amazon
   list](https://www.amazon.com/hz/wishlist/ls/1O7VAQKRPMITU) are
@@ -199,3 +179,15 @@ of them!
 
     - Begali "simplex mono basic" or "simplex mono",
       [i2rtf.com](https://i2rtf.com). These are pricey.
+
+
+
+# Don't get (already got on previous occasions)
+
+- [x] ~~R.\ F.\ Kuang: *Katabasis.*~~
+
+- [x] ~~A new antenna for my ham radio.~~
+
+- [x] ~~The ARRL Antenna Book~~
+
+- [x] ~~J-38 straight key~~
