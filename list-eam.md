@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# E.A.M. Wish List
+# E.A.M.\ Wish List
 
 As of December 19, 2024.
 
