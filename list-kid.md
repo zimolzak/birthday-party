@@ -4,8 +4,9 @@ layout: page
 
 # Alex Wish List
 
-**Now updated, December 13, 2024.** Go
-[here](/birthday-party/list.html) for his dad's list.
+As of December 29, 2025
+
+Go [here](/birthday-party/list.html) for his dad's list.
 
 # Important notes from parents (what not to buy)
 
@@ -17,7 +18,7 @@ layout: page
 
 - *Best to check with parents first* before buying most gifts.
 
-- Here are some Lego Creator sets that Alex **already owns.**
+- Here are some Lego sets that Alex **already owns.**
     - 31058 dinos
     - 31147 camera
     - 31157 peacock
@@ -26,15 +27,12 @@ layout: page
     - 31128 sea life
     - 31137 dogs
     - 31127 race cars
-
-- Other Lego sets that he owns:
     - 60312 police car
     - 41960 dots
     - 42163 bulldozer
     - 60287 tractor
     - 41805 dots
     - 43231 Disney *Wish* movie
-
 
 
 
@@ -51,7 +49,8 @@ list, so he doesn't get 2 of the same present.)
 
 - Here is Alex's [Lego online wish
 list](https://www.lego.com/shared-wishlist/3935faa2-7dca-4bf1-a282-8dca3f7cc09f).
-  
+
+
 
 ## Ideas from Alex, 2023
 
@@ -60,7 +59,6 @@ list](https://www.lego.com/shared-wishlist/3935faa2-7dca-4bf1-a282-8dca3f7cc09f)
 - 1, 2, or 3 folders
 - first aid things
 - 2 rolls of stickers
-
 
 
 
@@ -78,15 +76,3 @@ list](https://www.lego.com/shared-wishlist/3935faa2-7dca-4bf1-a282-8dca3f7cc09f)
   caracal, cheetah, okapi, red panda, giant panda, slow loris, Cobra,
   Green turtle, sea turtle hatchling, kangaroo, duckbill platypus,
   koala, wallaby.
-
-- [This](https://www.squishable.com/mm5/merchant.mvc?Screen=PROD&Product_Code=mini_plague_doctor_7)
-    cute creature from squishable.com, which Alex thinks looks like an
-    owl, and which he refers to as "Hootsy." Either the mini size ($29) or the micro/keychain size ($18).
-
-- a countdown timer to put on the wall, with remote control
-
-  
-
-
-
-

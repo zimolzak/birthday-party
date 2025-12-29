@@ -2,9 +2,9 @@
 layout: page
 ---
 
-# E.A.M.\ Wish List
+# E.A.M. Wish List
 
-As of December 19, 2024.
+As of December 29, 2025.
 
 - Go [here](/birthday-party/list-kid.html) for Alex list.
 - Go [here](/birthday-party/list.html) for A.J.Z. list.
@@ -16,10 +16,8 @@ As of December 19, 2024.
 - All-Clad stainless sauce pan, 2 quart (D3 Stainless 3-ply Bonded
   Cookware, Sauce Pan with lid, 2 quart, $160)
 
-- A cookbook (any of the following)
-    - *Milk Street Vegetables*
-    - *Milk Street Cookish*
-    - *Milk Street: Cook What You Have*
+- Cookbook, *Milk Street Vegetables* (But better check with someone
+  first. Might already own but Andy can't find it.)
 
 - Pillow cases: navy blue or white
 
@@ -27,3 +25,13 @@ As of December 19, 2024.
   but Standard Edition may be OK)
 
 - Non toxic yoga mat
+
+
+
+# Don't get these (recently received)
+
+- [x] ~~Milk street Tuesday nights~~
+- [x] ~~Milk street: the new rules~~
+- [x] ~~The Food Lab by Kenji Alt~~
+- [x] ~~Milk street: cookish
+- [x] ~~Milk street: cook what you have~~

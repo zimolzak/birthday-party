@@ -4,7 +4,7 @@ layout: page
 
 # AJZ (not Alex) Wish List
 
-As of December 16, 2025
+As of December 29, 2025
 
 - Go [here](/birthday-party/list-kid.html) for Alex list.
 - Go [here](/birthday-party/list-eam.html) for E.A.M. list.
@@ -15,21 +15,6 @@ As of December 16, 2025
 
 These are things I would start using right away and keep using a lot,
 possibly daily.
-
-## Books
-
-Go to your local indie bookstore or something! It's not necessary to
-buy from Amazon, but that's okay, too. I slightly prefer print edition
-to an e-reader edition.
-
-- **Merriam-Webster's** Collegiate Dictionary twelfth edition.
-  Available November 18! Yeah, again, seriously. I want this
-  particular dictionary and edition. It's going to delight me.
-
-- Tim Berners Lee: *This Is for Everyone.*
-
-- Christine Wenc: *Funny Because It's True: How the Onion Created
-  Modern News Satire.*
 
 
 
@@ -57,24 +42,12 @@ to an e-reader edition.
   green shirt, or block letters "MICHIGAN STATE" in green on black,
   *etc.* Background colors: grey, black, blue, green, red.
 
-- Wireless doorbell that has *volume adjustment!*
-
 - Very long tree trimmer. Either a manual type (with a saw and shears,
   plus a rope that you pull), or battery-powered saw-type cutter.
 
 
 
 ## Clothes
-
-- **Wallet.** Some type of wallet that doesn't fold and is a little
-    thinner than the one I have now. Maybe made of fabric or something
-    other than leather. Should have at least 3 slots (a few cards, a
-    few other cards, and cash folded in half). More slots are OK but
-    no more than 6, I guess. These are sometimes sold as "card holder"
-    type wallets. Bifold may be OK if skinny enough, but no trifold.
-    Most colors are OK. (black, brown, tan, grey, tan: in solid or
-    pattern. Or even fun designs like that Simpsons one I used to
-    have.)
 
 - A new **"clickabelt."** Belt made by "Slidebelts." Something like a
   brown leather belt. The one I've had for a while is getting worn.
@@ -97,13 +70,6 @@ to an e-reader edition.
   "skinny" style, like 2 inches wide, without much "tapering" as it
   goes from the bottom to the top. Possibly with a blunt,
   rectangle-type end, instead of coming to a point.
-
-- **Tie clip,** a cool, classy style, so my tie doesn't flop forward
-  and drag on things if I bend over. Doesn't have to be literally made
-  of a precious metal. Don't get the kind with a pin that pierces
-  through things. Style ideas: fun but subtle pattern, texture, my
-  monogram, anchor, key, rod of Asclepius, frieze pattern (do an image
-  search for 'frieze pattern').
 
 
 
@@ -131,6 +97,13 @@ of them!
   Adidas. The kind I like are often sold as "golf performance wicking
   something something."
 
+- **Tie clip,** a cool, classy style, so my tie doesn't flop forward
+  and drag on things if I bend over. Doesn't have to be literally made
+  of a precious metal. Don't get the kind with a pin that pierces
+  through things. Style ideas: fun but subtle pattern, texture, my
+  monogram, anchor, key, rod of Asclepius, frieze pattern (do an image
+  search for 'frieze pattern').
+
 ## Other
 
 - Video games for PS5
@@ -154,8 +127,8 @@ of them!
   **Kindle books** on that list. Completely fine to get any of these
   as a paper book, too (including used)!
 
-- Probably too crazy of an idea, but: Banjo ukulele? Mandolin? Bass
-  clarinet?
+- Probably too crazy of an idea, but: Banjo ukulele (Rockin' Robin has
+  a used one for $200)? Mandolin? Bass clarinet?
 
 - DeWalt **pressure washer,** $300. Like model DWPW2100. Yeah, I kinda
   still would use this.
@@ -179,15 +152,3 @@ of them!
 
     - Begali "simplex mono basic" or "simplex mono",
       [i2rtf.com](https://i2rtf.com). These are pricey.
-
-
-
-# Don't get (already got on previous occasions)
-
-- [x] ~~R.\ F.\ Kuang: *Katabasis.*~~
-
-- [x] ~~A new antenna for my ham radio.~~
-
-- [x] ~~The ARRL Antenna Book~~
-
-- [x] ~~J-38 straight key~~
