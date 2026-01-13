@@ -4,7 +4,7 @@ layout: page
 
 # AJZ (not Alex) Wish List
 
-As of December 29, 2025
+As of January 13, 2026
 
 - Go [here](/birthday-party/list-kid.html) for Alex list.
 - Go [here](/birthday-party/list-eam.html) for E.A.M. list.
@@ -15,8 +15,6 @@ As of December 29, 2025
 
 These are things I would start using right away and keep using a lot,
 possibly daily.
-
-
 
 ## Nerd
 
@@ -45,14 +43,23 @@ possibly daily.
 - Very long tree trimmer. Either a manual type (with a saw and shears,
   plus a rope that you pull), or battery-powered saw-type cutter.
 
-
-
 ## Clothes
 
 - A new **"clickabelt."** Belt made by "Slidebelts." Something like a
   brown leather belt. The one I've had for a while is getting worn.
   Should be at least 36 inch strap. Often they are sold with
   extra-long straps, and you cut them to length.
+
+
+
+
+# Medium priority
+
+Many of these are very fun, but either I don't "need" them, or I would
+use them but not all that often. I would be very happy to receive any
+of them!
+
+## Clothes
 
 - **Necktie or bowtie with repeating pattern of small logos**.
     Preferably made of silk, and with embroidered logos, but those
@@ -71,19 +78,10 @@ possibly daily.
   goes from the bottom to the top. Possibly with a blunt,
   rectangle-type end, instead of coming to a point.
 
-
-
-# Medium priority
-
-Many of these are very fun, but either I don't "need" them, or I would
-use them but not all that often. I would be very happy to receive any
-of them!
-
-## Clothes
-
 - **Short sleeve button-front** shirt, casual, all cotton. Usually
-  size large. Especially Brooks Brothers regular fit (blue label) with
-  button-down collar.
+  size large. Solid color. (Example: Brooks Brothers regular fit (blue
+  label) with button-down collar, although I don't need that exact
+  brand.)
 
 - Any **short sleeve shirt from Criquet**,
   [criquetshirts.com](https://criquetshirts.com), around $90. Size:
@@ -111,6 +109,7 @@ of them!
     - MLB The Show 25
     - Halo: Campaign Evolved
     - Indiana Jones and the Great Circle
+    - Microsoft Flight Simulator 2024
 
 - **Old-timey "straight key"** for Morse code. Search eBay for "navy
   flameproof" or "vintage straight key." Ideally get one that has all
