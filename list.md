@@ -16,8 +16,6 @@ As of January 13, 2026
 These are things I would start using right away and keep using a lot,
 possibly daily.
 
-## Nerd
-
 - **Air compressor.** Yes, I want to blast out certain drainage lines,
   and also it can hook to a rapid can crusher maybe? Kind of want to
   inflate tires occasionally. I can give you a list of several
@@ -43,13 +41,12 @@ possibly daily.
 - Very long tree trimmer. Either a manual type (with a saw and shears,
   plus a rope that you pull), or battery-powered saw-type cutter.
 
-## Clothes
-
-- A new **"clickabelt."** Belt made by "Slidebelts." Something like a
-  brown leather belt. The one I've had for a while is getting worn.
-  Should be at least 36 inch strap. Often they are sold with
-  extra-long straps, and you cut them to length.
-
+- Video games for PS5
+    - MLB The Show 25 (or 26 or whatever)
+    - Indiana Jones and the Great Circle (this is supposed to be a great game)
+    - Microsoft Flight Simulator 2024
+    - Gran Turismo 7
+    - Halo: Campaign Evolved
 
 
 
@@ -81,7 +78,7 @@ of them!
 - **Short sleeve button-front** shirt, casual, all cotton. Usually
   size large. Solid color. (Example: Brooks Brothers regular fit (blue
   label) with button-down collar, although I don't need that exact
-  brand.)
+  brand.) It should have a breast pocket so I can put a pen in there!
 
 - Any **short sleeve shirt from Criquet**,
   [criquetshirts.com](https://criquetshirts.com), around $90. Size:
@@ -103,13 +100,6 @@ of them!
   search for 'frieze pattern').
 
 ## Other
-
-- Video games for PS5
-    - Gran Turismo 7
-    - MLB The Show 25
-    - Halo: Campaign Evolved
-    - Indiana Jones and the Great Circle
-    - Microsoft Flight Simulator 2024
 
 - **Old-timey "straight key"** for Morse code. Search eBay for "navy
   flameproof" or "vintage straight key." Ideally get one that has all
