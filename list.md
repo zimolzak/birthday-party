@@ -4,11 +4,10 @@ layout: page
 
 # AJZ (not Alex) Wish List
 
-As of January 13, 2026
+As of November 6, 2026
 
 - Go [here](/birthday-party/list-kid.html) for Alex list.
 - Go [here](/birthday-party/list-eam.html) for E.A.M. list.
-
 
 
 # High priority
@@ -16,11 +15,8 @@ As of January 13, 2026
 These are things I would start using right away and keep using a lot,
 possibly daily.
 
-- **Air compressor.** Yes, I want to blast out certain drainage lines,
-  and also it can hook to a rapid can crusher maybe? Kind of want to
-  inflate tires occasionally. I can give you a list of several
-  recommended ones, or just like buy one that is for regular,
-  non-professional people and not gigantic capacity or pressure.
+- **EKG calipers.** This is a doctor equipment thing, and I lost my
+  previous ones.
 
 - **Photo developing** of several (ten?) rolls of 35mm film! I think
   [Indie Film Lab](https://www.indiefilmlab.com/) looks good. I would
@@ -32,15 +28,6 @@ possibly daily.
   or if you're feeling fancy, a ride in one of their historic
   airplanes.
 
-- Cotton T-shirt, size large, with **school logo or name** of places
-  I've attended. *See neckties below* for which schools. Keep it
-  simple, such as: just one big MSU spartan helmet logo in white on a
-  green shirt, or block letters "MICHIGAN STATE" in green on black,
-  *etc.* Background colors: grey, black, blue, green, red.
-
-- Very long tree trimmer. Either a manual type (with a saw and shears,
-  plus a rope that you pull), or battery-powered saw-type cutter.
-
 - Video games for PS5
     - MLB The Show 25 (or 26 or whatever)
     - Indiana Jones and the Great Circle (this is supposed to be a great game)
@@ -48,32 +35,21 @@ possibly daily.
     - Gran Turismo 7
     - Halo: Campaign Evolved
 
+- Cotton T-shirt, size large, with **school logo or name** of places
+  I've been affiliated with. Keep it simple, such as: just one big MSU
+  spartan helmet logo in white on a green shirt, or block letters
+  "MICHIGAN STATE" in green on black, *etc.* Background colors: grey,
+  black, blue, green, red. (List of schools: MSU, WUStL, Mizzou, SLU,
+  Harvard (Medical School), Boston U, Baylor College of Medicine)
 
 
 # Medium priority
 
-Many of these are very fun, but either I don't "need" them, or I would
-use them but not all that often. I would be very happy to receive any
+Many of these are fun, but either I don't "need" them, or I would
+use them not that often. I would be very happy to receive any
 of them!
 
 ## Clothes
-
-- **Necktie or bowtie with repeating pattern of small logos**.
-    Preferably made of silk, and with embroidered logos, but those
-    aren't requirements. Logos of any of the following schools:
-    - Spartan helmet for MSU: <img style="vertical-align:middle" src="/birthday-party/ties/msu.jpg" alt="MSU tie" width="100"/>
-    - Block S letter for MSU.
-    - The shield logo for Washington University in St. Louis: <img style="vertical-align:middle" src="/birthday-party/ties/wu.jpg" alt="WUStL tie" width="100"/>
-    - Block H letter for Harvard (sometimes inside a shield, technically their athletic logo).
-    - Plain "Veritas" shield for Harvard: <img style="vertical-align:middle" src="/birthday-party/ties/hu-b1.jpg" alt="Harvard bowtie" width="100"/> <img style="vertical-align:middle" src="/birthday-party/ties/hu-b2.jpg" alt="Harvard bowtie, striped" width="100"/> <img style="vertical-align:middle" src="/birthday-party/ties/hu-n1.jpg" alt="Harvard tie, striped" width="100"/> <img style="vertical-align:middle" src="/birthday-party/ties/hu-n2.jpg" alt="Harvard tie" width="100"/>
-    - Shield with lion rampant for Harvard medical: <img style="vertical-align:middle" src="/birthday-party/ties/hm-b.jpg" alt="HMS bowtie" width="100"/> <img style="vertical-align:middle" src="/birthday-party/ties/hm-n.jpg" alt="HMS tie" width="100"/>
-    - Mizzou
-    - Saint Louis University
-
-- **Necktie,** solid green, black, grey, brown. Made of silk. Get
-  "skinny" style, like 2 inches wide, without much "tapering" as it
-  goes from the bottom to the top. Possibly with a blunt,
-  rectangle-type end, instead of coming to a point.
 
 - **Short sleeve button-front** shirt, casual, all cotton. Usually
   size large. Solid color. (Example: Brooks Brothers regular fit (blue
@@ -92,35 +68,7 @@ of them!
   Adidas. The kind I like are often sold as "golf performance wicking
   something something."
 
-- **Tie clip,** a cool, classy style, so my tie doesn't flop forward
-  and drag on things if I bend over. Doesn't have to be literally made
-  of a precious metal. Don't get the kind with a pin that pierces
-  through things. Style ideas: fun but subtle pattern, texture, my
-  monogram, anchor, key, rod of Asclepius, frieze pattern (do an image
-  search for 'frieze pattern').
-
-## Other
-
-- **Old-timey "straight key"** for Morse code. Search eBay for "navy
-  flameproof" or "vintage straight key." Ideally get one that has all
-  or most of the parts. (Don't buy just the knob, or a key without the
-  knob. Key and knob without the base is okay. Without wires is pretty
-  much okay.) These are fun gifts because it almost doesn't matter
-  what kind you buy. They are all different, and they all will work
-  (almost impossible to be broken or defective) and all will be fun!
-
-- All items on the [Amazon
-  list](https://www.amazon.com/hz/wishlist/ls/1O7VAQKRPMITU) are
-  "approved by me" and look like they would work, if you are not sure
-  about buying the "right" thing from the list above. Any of the
-  **Kindle books** on that list. Completely fine to get any of these
-  as a paper book, too (including used)!
-
-- Probably too crazy of an idea, but: Banjo ukulele (Rockin' Robin has
-  a used one for $200)? Mandolin? Bass clarinet?
-
-- DeWalt **pressure washer,** $300. Like model DWPW2100. Yeah, I kinda
-  still would use this.
+## Radio
 
 - **Semi-automatic "bug" Morse code key.** This is probably the Morse
   code thing that I most want to try out next. Such as these Vibroplex
@@ -141,3 +89,33 @@ of them!
 
     - Begali "simplex mono basic" or "simplex mono",
       [i2rtf.com](https://i2rtf.com). These are pricey.
+
+- **Old-timey "straight key"** for Morse code. Search eBay for "navy
+  flameproof" or "vintage straight key." Ideally get one that has all
+  or most of the parts. (Don't buy just the knob, or a key without the
+  knob. Key and knob without the base is okay. Without wires is pretty
+  much okay.) I have several, but you can never have too many.
+
+## Other
+
+- **Air compressor.** Yes, I want to blast out certain drainage lines,
+  and also it can hook to a rapid can crusher maybe? Kind of want to
+  inflate tires occasionally. I can give you a list of several
+  recommended ones, or just like buy one that is for regular,
+  non-professional people and not gigantic capacity or pressure.
+
+- Very long tree trimmer. Either a manual type (with a saw and shears,
+  plus a rope that you pull), or battery-powered saw-type cutter.
+
+- DeWalt **pressure washer,** $300. Like model DWPW2100. Yeah, I kinda
+  still would use this.
+
+- All items on the [Amazon
+  list](https://www.amazon.com/hz/wishlist/ls/1O7VAQKRPMITU) are
+  "approved by me" and look like they would work, if you are not sure
+  about buying the "right" thing from the list above. Any of the
+  **Kindle books** on that list. Completely fine to get any of these
+  as a paper book, too (including used)!
+
+- Probably too crazy of an idea, but: Banjo ukulele (Rockin' Robin has
+  a used one for $200)? Mandolin? Bass clarinet?
